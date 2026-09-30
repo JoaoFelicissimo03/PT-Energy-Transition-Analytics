@@ -1,7 +1,7 @@
 11/09 start
 
 
-Extraction script finished 17/09
+Extraction script finished 17/09 - fix
 
 Cleaning start finished 23/09
 
