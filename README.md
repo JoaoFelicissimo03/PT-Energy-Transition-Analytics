@@ -5,7 +5,7 @@ Extraction script finished 17/09
 
 Cleaning start finished 23/09
 
-EDA 01/09
+EDA finished 01/09
 
 Predictive Model finished 7/10
 
