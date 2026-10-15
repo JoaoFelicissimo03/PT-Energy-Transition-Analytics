@@ -1,8 +1,8 @@
 11/09 start
 
--- Change 3 yr to 5 yr
+-- Change 3 yr to 5 yr ongoing
 
-Extraction script finished 17/09
+Extraction script finished 17/09 - Remaking rn
 
 Cleaning start finished 23/09
 
