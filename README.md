@@ -8,5 +8,5 @@ Cleaning start finished 23/09
 
 EDA finished 01/09
 
-Predictive Model finished 7/10
+Predictive Model finished 7/10...
 
