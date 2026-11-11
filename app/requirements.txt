@@ -1,0 +1,8 @@
+# Dashboard only. Streamlit Community Cloud reads this file because it sits next to app/app.py,
+# so the deployed app installs four packages instead of the whole pipeline.
+# The notebooks and the tests use requirements.txt in the project root.
+# Versions are the ones the dashboard was tested with (Python 3.13).
+streamlit==1.66.1
+pandas==3.0.5
+numpy==2.5.3
+plotly==7.1.0

@@ -1,0 +1,3337 @@
+date,district,municipality,energy_mwh
+2025-05-01,Aveiro,Albergaria-a-Velha,63.111
+2025-05-01,Aveiro,Anadia,17.955
+2025-05-01,Aveiro,Arouca,3.05
+2025-05-01,Aveiro,Aveiro,134.611
+2025-05-01,Aveiro,Castelo de Paiva,3.676
+2025-05-01,Aveiro,Espinho,23.405
+2025-05-01,Aveiro,Estarreja,137.808
+2025-05-01,Aveiro,Mealhada,26.258
+2025-05-01,Aveiro,Murtosa,1.762
+2025-05-01,Aveiro,Oliveira de Azeméis,17.261
+2025-05-01,Aveiro,Oliveira do Bairro,10.974
+2025-05-01,Aveiro,Ovar,46.884
+2025-05-01,Aveiro,Santa Maria da Feira,98.388
+2025-05-01,Aveiro,Sever do Vouga,3.651
+2025-05-01,Aveiro,São João da Madeira,32.269
+2025-05-01,Aveiro,Vagos,21.356
+2025-05-01,Aveiro,Vale de Cambra,9.674
+2025-05-01,Aveiro,Águeda,18.45
+2025-05-01,Aveiro,Ílhavo,24.46
+2025-05-01,Beja,Aljustrel,48.388
+2025-05-01,Beja,Almodôvar,101.45
+2025-05-01,Beja,Alvito,0.992
+2025-05-01,Beja,Barrancos,0.062
+2025-05-01,Beja,Beja,37.521
+2025-05-01,Beja,Castro Verde,9.358
+2025-05-01,Beja,Cuba,4.388
+2025-05-01,Beja,Ferreira do Alentejo,0.474
+2025-05-01,Beja,Moura,3.256
+2025-05-01,Beja,Mértola,0.815
+2025-05-01,Beja,Odemira,12.23
+2025-05-01,Beja,Ourique,7.728
+2025-05-01,Beja,Serpa,3.646
+2025-05-01,Beja,Vidigueira,2.823
+2025-05-01,Braga,Amares,1.019
+2025-05-01,Braga,Barcelos,75.383
+2025-05-01,Braga,Braga,270.299
+2025-05-01,Braga,Cabeceiras de Basto,6.129
+2025-05-01,Braga,Celorico de Basto,3.886
+2025-05-01,Braga,Esposende,41.057
+2025-05-01,Braga,Fafe,21.051
+2025-05-01,Braga,Guimarães,152.304
+2025-05-01,Braga,Póvoa de Lanhoso,1.75
+2025-05-01,Braga,Terras de Bouro,2.729
+2025-05-01,Braga,Vieira do Minho,3.579
+2025-05-01,Braga,Vila Nova de Famalicão,98.282
+2025-05-01,Braga,Vila Verde,17.353
+2025-05-01,Braga,Vizela,17.831
+2025-05-01,Bragança,Alfândega da Fé,1.182
+2025-05-01,Bragança,Bragança,24.791
+2025-05-01,Bragança,Carrazeda de Ansiães,0.797
+2025-05-01,Bragança,Freixo de Espada À Cinta,0.372
+2025-05-01,Bragança,Macedo de Cavaleiros,8.592
+2025-05-01,Bragança,Miranda do douro,4.237
+2025-05-01,Bragança,Mirandela,15.725
+2025-05-01,Bragança,Mogadouro,3.562
+2025-05-01,Bragança,Torre de Moncorvo,3.007
+2025-05-01,Bragança,Vila Flor,2.03
+2025-05-01,Bragança,Vimioso,1.388
+2025-05-01,Bragança,Vinhais,0.464
+2025-05-01,Castelo Branco,Belmonte,0.853
+2025-05-01,Castelo Branco,Castelo Branco,74.972
+2025-05-01,Castelo Branco,Covilhã,49.124
+2025-05-01,Castelo Branco,Fundão,24.192
+2025-05-01,Castelo Branco,Idanha-a-Nova,3.403
+2025-05-01,Castelo Branco,Oleiros,0.677
+2025-05-01,Castelo Branco,Penamacor,0.79
+2025-05-01,Castelo Branco,Proença-a-Nova,2.475
+2025-05-01,Castelo Branco,Sertã,9.218
+2025-05-01,Castelo Branco,Vila Velha de Ródão,11.485
+2025-05-01,Castelo Branco,Vila de Rei,0.662
+2025-05-01,Coimbra,Arganil,4.024
+2025-05-01,Coimbra,Cantanhede,146.03
+2025-05-01,Coimbra,Coimbra,233.909
+2025-05-01,Coimbra,Condeixa-a-Nova,19.163
+2025-05-01,Coimbra,Figueira da Foz,56.141
+2025-05-01,Coimbra,Góis,0.64
+2025-05-01,Coimbra,Lousã,11.343
+2025-05-01,Coimbra,Mira,7.283
+2025-05-01,Coimbra,Miranda do Corvo,5.358
+2025-05-01,Coimbra,Montemor-o-Velho,11.828
+2025-05-01,Coimbra,Oliveira do Hospital,12.186
+2025-05-01,Coimbra,Pampilhosa da Serra,1.713
+2025-05-01,Coimbra,Penacova,9.383
+2025-05-01,Coimbra,Penela,1.428
+2025-05-01,Coimbra,Soure,3.568
+2025-05-01,Coimbra,Tábua,3.888
+2025-05-01,Coimbra,Vila Nova de Poiares,1.184
+2025-05-01,Faro,Albufeira,154.602
+2025-05-01,Faro,Alcoutim,0.81
+2025-05-01,Faro,Aljezur,4.761
+2025-05-01,Faro,Castro Marim,15.187
+2025-05-01,Faro,Faro,178.931
+2025-05-01,Faro,Lagoa,82.994
+2025-05-01,Faro,Lagos,97.387
+2025-05-01,Faro,Loulé,231.883
+2025-05-01,Faro,Monchique,1.291
+2025-05-01,Faro,Olhão,49.412
+2025-05-01,Faro,Portimão,93.008
+2025-05-01,Faro,Silves,46.498
+2025-05-01,Faro,São Brás de Alportel,9.417
+2025-05-01,Faro,Tavira,28.273
+2025-05-01,Faro,Vila Real de Santo António,19.578
+2025-05-01,Faro,Vila do Bispo,13.094
+2025-05-01,Guarda,Aguiar da Beira,0.734
+2025-05-01,Guarda,Almeida,7.464
+2025-05-01,Guarda,Celorico da Beira,7.786
+2025-05-01,Guarda,Figueira de Castelo Rodrigo,0.869
+2025-05-01,Guarda,Fornos de Algodres,0.548
+2025-05-01,Guarda,Gouveia,2.822
+2025-05-01,Guarda,Guarda,35.426
+2025-05-01,Guarda,Manteigas,2.041
+2025-05-01,Guarda,Mêda,0.561
+2025-05-01,Guarda,Pinhel,0.373
+2025-05-01,Guarda,Sabugal,1.812
+2025-05-01,Guarda,Seia,8.098
+2025-05-01,Guarda,Trancoso,1.906
+2025-05-01,Guarda,Vila Nova de Foz Côa,4.471
+2025-05-01,Leiria,Alcobaça,44.724
+2025-05-01,Leiria,Alvaiázere,8.577
+2025-05-01,Leiria,Ansião,2.303
+2025-05-01,Leiria,Batalha,12.431
+2025-05-01,Leiria,Bombarral,13.066
+2025-05-01,Leiria,Caldas da Rainha,64.652
+2025-05-01,Leiria,Castanheira de Pêra,1.543
+2025-05-01,Leiria,Figueiró dos Vinhos,1.309
+2025-05-01,Leiria,Leiria,388.93
+2025-05-01,Leiria,Marinha Grande,26.728
+2025-05-01,Leiria,Nazaré,32.492
+2025-05-01,Leiria,Pedrógão Grande,1.514
+2025-05-01,Leiria,Peniche,28.705
+2025-05-01,Leiria,Pombal,114.308
+2025-05-01,Leiria,Porto de Mós,12.804
+2025-05-01,Leiria,Óbidos,63.751
+2025-05-01,Lisboa,Alenquer,42.992
+2025-05-01,Lisboa,Amadora,311.059
+2025-05-01,Lisboa,Arruda dos Vinhos,30.699
+2025-05-01,Lisboa,Azambuja,106.144
+2025-05-01,Lisboa,Cadaval,1.242
+2025-05-01,Lisboa,Cascais,630.137
+2025-05-01,Lisboa,Lisboa,1979.495
+2025-05-01,Lisboa,Loures,602.412
+2025-05-01,Lisboa,Lourinhã,20.515
+2025-05-01,Lisboa,Mafra,162.171
+2025-05-01,Lisboa,Odivelas,339.345
+2025-05-01,Lisboa,Oeiras,661.599
+2025-05-01,Lisboa,Sintra,675.468
+2025-05-01,Lisboa,Sobral de Monte Agraço,9.122
+2025-05-01,Lisboa,Torres Vedras,110.999
+2025-05-01,Lisboa,Vila Franca de Xira,256.149
+2025-05-01,Portalegre,Alter do Chão,3.548
+2025-05-01,Portalegre,Arronches,0.479
+2025-05-01,Portalegre,Avis,0.964
+2025-05-01,Portalegre,Campo Maior,2.911
+2025-05-01,Portalegre,Castelo de Vide,2.338
+2025-05-01,Portalegre,Crato,0.764
+2025-05-01,Portalegre,Elvas,14.868
+2025-05-01,Portalegre,Fronteira,0.536
+2025-05-01,Portalegre,Gavião,1.234
+2025-05-01,Portalegre,Marvão,0.546
+2025-05-01,Portalegre,Monforte,0.037
+2025-05-01,Portalegre,Nisa,1.506
+2025-05-01,Portalegre,Ponte de Sor,4.728
+2025-05-01,Portalegre,Portalegre,18.701
+2025-05-01,Portalegre,Sousel,0.922
+2025-05-01,Porto,Amarante,19.864
+2025-05-01,Porto,Baião,4.516
+2025-05-01,Porto,Felgueiras,34.518
+2025-05-01,Porto,Gondomar,158.113
+2025-05-01,Porto,Lousada,21.52
+2025-05-01,Porto,Maia,189.706
+2025-05-01,Porto,Marco de Canaveses,18.562
+2025-05-01,Porto,Matosinhos,432.551
+2025-05-01,Porto,Paredes,44.701
+2025-05-01,Porto,Paços de Ferreira,29.298
+2025-05-01,Porto,Penafiel,72.41
+2025-05-01,Porto,Porto,521.45
+2025-05-01,Porto,Póvoa de Varzim,73.301
+2025-05-01,Porto,Santo Tirso,37.639
+2025-05-01,Porto,Trofa,27.207
+2025-05-01,Porto,Valongo,146.113
+2025-05-01,Porto,Vila Nova de Gaia,498.908
+2025-05-01,Porto,Vila do Conde,117.774
+2025-05-01,Santarém,Abrantes,46.655
+2025-05-01,Santarém,Alcanena,10.031
+2025-05-01,Santarém,Almeirim,12.96
+2025-05-01,Santarém,Alpiarça,1.798
+2025-05-01,Santarém,Benavente,40.306
+2025-05-01,Santarém,Cartaxo,22.817
+2025-05-01,Santarém,Chamusca,2.631
+2025-05-01,Santarém,Constância,2.943
+2025-05-01,Santarém,Coruche,10.186
+2025-05-01,Santarém,Entroncamento,21.203
+2025-05-01,Santarém,Ferreira do Zêzere,3.564
+2025-05-01,Santarém,Golegã,5.016
+2025-05-01,Santarém,Mação,0.46
+2025-05-01,Santarém,Ourém,59.11
+2025-05-01,Santarém,Rio Maior,25.211
+2025-05-01,Santarém,Salvaterra de Magos,16.249
+2025-05-01,Santarém,Santarém,201.136
+2025-05-01,Santarém,Sardoal,0.473
+2025-05-01,Santarém,Tomar,37.89
+2025-05-01,Santarém,Torres Novas,40.71
+2025-05-01,Santarém,Vila Nova da Barquinha,2.042
+2025-05-01,Setúbal,Alcochete,95.549
+2025-05-01,Setúbal,Alcácer do Sal,72.537
+2025-05-01,Setúbal,Almada,293.167
+2025-05-01,Setúbal,Barreiro,194.015
+2025-05-01,Setúbal,Grândola,121.733
+2025-05-01,Setúbal,Moita,47.462
+2025-05-01,Setúbal,Montijo,173.592
+2025-05-01,Setúbal,Palmela,99.327
+2025-05-01,Setúbal,Santiago do Cacém,16.868
+2025-05-01,Setúbal,Seixal,298.74
+2025-05-01,Setúbal,Sesimbra,63.789
+2025-05-01,Setúbal,Setúbal,174.903
+2025-05-01,Setúbal,Sines,35.861
+2025-05-01,Viana do Castelo,Arcos de Valdevez,13.539
+2025-05-01,Viana do Castelo,Caminha,23.979
+2025-05-01,Viana do Castelo,Melgaço,4.478
+2025-05-01,Viana do Castelo,Monção,8.261
+2025-05-01,Viana do Castelo,Paredes de Coura,5.325
+2025-05-01,Viana do Castelo,Ponte da Barca,1.046
+2025-05-01,Viana do Castelo,Ponte de Lima,18.977
+2025-05-01,Viana do Castelo,Valença,10.311
+2025-05-01,Viana do Castelo,Viana do Castelo,74.497
+2025-05-01,Viana do Castelo,Vila Nova de Cerveira,7.393
+2025-05-01,Vila Real,Alijó,0.774
+2025-05-01,Vila Real,Boticas,1.265
+2025-05-01,Vila Real,Chaves,33.741
+2025-05-01,Vila Real,Mesão Frio,0.193
+2025-05-01,Vila Real,Mondim de Basto,2.233
+2025-05-01,Vila Real,Montalegre,1.302
+2025-05-01,Vila Real,Murça,0.993
+2025-05-01,Vila Real,Peso da Régua,17.133
+2025-05-01,Vila Real,Ribeira de Pena,1.42
+2025-05-01,Vila Real,Sabrosa,0.343
+2025-05-01,Vila Real,Santa Marta de Penaguião,0.856
+2025-05-01,Vila Real,Valpaços,2.433
+2025-05-01,Vila Real,Vila Pouca de Aguiar,2.351
+2025-05-01,Vila Real,Vila Real,65.712
+2025-05-01,Viseu,Armamar,1.416
+2025-05-01,Viseu,Carregal do Sal,2.824
+2025-05-01,Viseu,Castro daire,3.646
+2025-05-01,Viseu,Cinfães,1.138
+2025-05-01,Viseu,Lamego,23.354
+2025-05-01,Viseu,Mangualde,10.372
+2025-05-01,Viseu,Moimenta da Beira,0.773
+2025-05-01,Viseu,Mortágua,4.132
+2025-05-01,Viseu,Nelas,7.85
+2025-05-01,Viseu,Oliveira de Frades,2.856
+2025-05-01,Viseu,Penalva do Castelo,2.221
+2025-05-01,Viseu,Penedono,0.142
+2025-05-01,Viseu,Resende,3.037
+2025-05-01,Viseu,Santa Comba Dão,6.116
+2025-05-01,Viseu,Sernancelhe,2.743
+2025-05-01,Viseu,Sátão,2.313
+2025-05-01,Viseu,São João da Pesqueira,0.796
+2025-05-01,Viseu,São Pedro do Sul,4.015
+2025-05-01,Viseu,Tabuaço,0.886
+2025-05-01,Viseu,Tarouca,0.277
+2025-05-01,Viseu,Tondela,11.026
+2025-05-01,Viseu,Vila Nova de Paiva,1.147
+2025-05-01,Viseu,Viseu,104.903
+2025-05-01,Viseu,Vouzela,6.117
+2025-05-01,Évora,Alandroal,0.791
+2025-05-01,Évora,Arraiolos,1.42
+2025-05-01,Évora,Borba,1.682
+2025-05-01,Évora,Estremoz,35.492
+2025-05-01,Évora,Montemor-o-Novo,21.833
+2025-05-01,Évora,Mora,1.56
+2025-05-01,Évora,Mourão,1.119
+2025-05-01,Évora,Portel,1.308
+2025-05-01,Évora,Redondo,0.835
+2025-05-01,Évora,Reguengos de Monsaraz,10.245
+2025-05-01,Évora,Vendas Novas,34.758
+2025-05-01,Évora,Viana do Alentejo,1.84
+2025-05-01,Évora,Vila Viçosa,4.193
+2025-05-01,Évora,Évora,66.732
+2025-06-01,Aveiro,Albergaria-a-Velha,63.711
+2025-06-01,Aveiro,Anadia,16.946
+2025-06-01,Aveiro,Arouca,3.978
+2025-06-01,Aveiro,Aveiro,127.491
+2025-06-01,Aveiro,Castelo de Paiva,4.032
+2025-06-01,Aveiro,Espinho,29.397
+2025-06-01,Aveiro,Estarreja,125.688
+2025-06-01,Aveiro,Mealhada,27.057
+2025-06-01,Aveiro,Murtosa,2.456
+2025-06-01,Aveiro,Oliveira de Azeméis,16.737
+2025-06-01,Aveiro,Oliveira do Bairro,9.338
+2025-06-01,Aveiro,Ovar,43.671
+2025-06-01,Aveiro,Santa Maria da Feira,92.34
+2025-06-01,Aveiro,Sever do Vouga,4.406
+2025-06-01,Aveiro,São João da Madeira,33.494
+2025-06-01,Aveiro,Vagos,22.634
+2025-06-01,Aveiro,Vale de Cambra,9.319
+2025-06-01,Aveiro,Águeda,17.525
+2025-06-01,Aveiro,Ílhavo,26.332
+2025-06-01,Beja,Aljustrel,74.244
+2025-06-01,Beja,Almodôvar,158.951
+2025-06-01,Beja,Alvito,1.299
+2025-06-01,Beja,Barrancos,0.057
+2025-06-01,Beja,Beja,45.034
+2025-06-01,Beja,Castro Verde,11.705
+2025-06-01,Beja,Cuba,5.057
+2025-06-01,Beja,Ferreira do Alentejo,0.794
+2025-06-01,Beja,Moura,3.48
+2025-06-01,Beja,Mértola,5.342
+2025-06-01,Beja,Odemira,17.362
+2025-06-01,Beja,Ourique,9.743
+2025-06-01,Beja,Serpa,5.821
+2025-06-01,Beja,Vidigueira,3.902
+2025-06-01,Braga,Amares,1.35
+2025-06-01,Braga,Barcelos,77.067
+2025-06-01,Braga,Braga,272.098
+2025-06-01,Braga,Cabeceiras de Basto,7.059
+2025-06-01,Braga,Celorico de Basto,3.09
+2025-06-01,Braga,Esposende,45.903
+2025-06-01,Braga,Fafe,21.134
+2025-06-01,Braga,Guimarães,148.045
+2025-06-01,Braga,Póvoa de Lanhoso,1.894
+2025-06-01,Braga,Terras de Bouro,3.203
+2025-06-01,Braga,Vieira do Minho,4.119
+2025-06-01,Braga,Vila Nova de Famalicão,98.705
+2025-06-01,Braga,Vila Verde,20.017
+2025-06-01,Braga,Vizela,18.322
+2025-06-01,Bragança,Alfândega da Fé,1.225
+2025-06-01,Bragança,Bragança,27.773
+2025-06-01,Bragança,Carrazeda de Ansiães,0.835
+2025-06-01,Bragança,Freixo de Espada À Cinta,0.423
+2025-06-01,Bragança,Macedo de Cavaleiros,10.463
+2025-06-01,Bragança,Miranda do douro,5.408
+2025-06-01,Bragança,Mirandela,16.227
+2025-06-01,Bragança,Mogadouro,3.875
+2025-06-01,Bragança,Torre de Moncorvo,3.26
+2025-06-01,Bragança,Vila Flor,2.159
+2025-06-01,Bragança,Vimioso,0.829
+2025-06-01,Bragança,Vinhais,0.409
+2025-06-01,Castelo Branco,Belmonte,0.983
+2025-06-01,Castelo Branco,Castelo Branco,80.458
+2025-06-01,Castelo Branco,Covilhã,43.961
+2025-06-01,Castelo Branco,Fundão,31.708
+2025-06-01,Castelo Branco,Idanha-a-Nova,4.276
+2025-06-01,Castelo Branco,Oleiros,0.539
+2025-06-01,Castelo Branco,Penamacor,1.046
+2025-06-01,Castelo Branco,Proença-a-Nova,3.197
+2025-06-01,Castelo Branco,Sertã,9.753
+2025-06-01,Castelo Branco,Vila Velha de Ródão,14.59
+2025-06-01,Castelo Branco,Vila de Rei,0.891
+2025-06-01,Coimbra,Arganil,3.794
+2025-06-01,Coimbra,Cantanhede,146.332
+2025-06-01,Coimbra,Coimbra,202.406
+2025-06-01,Coimbra,Condeixa-a-Nova,20.778
+2025-06-01,Coimbra,Figueira da Foz,60.442
+2025-06-01,Coimbra,Góis,0.959
+2025-06-01,Coimbra,Lousã,12.298
+2025-06-01,Coimbra,Mira,9.291
+2025-06-01,Coimbra,Miranda do Corvo,5.65
+2025-06-01,Coimbra,Montemor-o-Velho,10.712
+2025-06-01,Coimbra,Oliveira do Hospital,12.299
+2025-06-01,Coimbra,Pampilhosa da Serra,1.877
+2025-06-01,Coimbra,Penacova,10.783
+2025-06-01,Coimbra,Penela,5.056
+2025-06-01,Coimbra,Soure,4.258
+2025-06-01,Coimbra,Tábua,4.322
+2025-06-01,Coimbra,Vila Nova de Poiares,1.386
+2025-06-01,Faro,Albufeira,197.359
+2025-06-01,Faro,Alcoutim,0.827
+2025-06-01,Faro,Aljezur,6.25
+2025-06-01,Faro,Castro Marim,27.811
+2025-06-01,Faro,Faro,199.849
+2025-06-01,Faro,Lagoa,101.868
+2025-06-01,Faro,Lagos,108.252
+2025-06-01,Faro,Loulé,326.674
+2025-06-01,Faro,Monchique,1.446
+2025-06-01,Faro,Olhão,69.752
+2025-06-01,Faro,Portimão,130.162
+2025-06-01,Faro,Silves,73.133
+2025-06-01,Faro,São Brás de Alportel,11.136
+2025-06-01,Faro,Tavira,38.465
+2025-06-01,Faro,Vila Real de Santo António,34.406
+2025-06-01,Faro,Vila do Bispo,15.669
+2025-06-01,Guarda,Aguiar da Beira,0.968
+2025-06-01,Guarda,Almeida,10.214
+2025-06-01,Guarda,Celorico da Beira,7.809
+2025-06-01,Guarda,Figueira de Castelo Rodrigo,1.008
+2025-06-01,Guarda,Fornos de Algodres,0.649
+2025-06-01,Guarda,Gouveia,2.439
+2025-06-01,Guarda,Guarda,35.568
+2025-06-01,Guarda,Manteigas,1.777
+2025-06-01,Guarda,Mêda,1.166
+2025-06-01,Guarda,Pinhel,0.853
+2025-06-01,Guarda,Sabugal,3.161
+2025-06-01,Guarda,Seia,9.637
+2025-06-01,Guarda,Trancoso,1.764
+2025-06-01,Guarda,Vila Nova de Foz Côa,4.74
+2025-06-01,Leiria,Alcobaça,48.541
+2025-06-01,Leiria,Alvaiázere,8.646
+2025-06-01,Leiria,Ansião,4.658
+2025-06-01,Leiria,Batalha,11.874
+2025-06-01,Leiria,Bombarral,12.166
+2025-06-01,Leiria,Caldas da Rainha,65.842
+2025-06-01,Leiria,Castanheira de Pêra,2.017
+2025-06-01,Leiria,Figueiró dos Vinhos,1.994
+2025-06-01,Leiria,Leiria,383.958
+2025-06-01,Leiria,Marinha Grande,31.059
+2025-06-01,Leiria,Nazaré,36.263
+2025-06-01,Leiria,Pedrógão Grande,2.211
+2025-06-01,Leiria,Peniche,34.215
+2025-06-01,Leiria,Pombal,112.762
+2025-06-01,Leiria,Porto de Mós,12.678
+2025-06-01,Leiria,Óbidos,66.973
+2025-06-01,Lisboa,Alenquer,44.837
+2025-06-01,Lisboa,Amadora,304.114
+2025-06-01,Lisboa,Arruda dos Vinhos,27.281
+2025-06-01,Lisboa,Azambuja,108.422
+2025-06-01,Lisboa,Cadaval,1.451
+2025-06-01,Lisboa,Cascais,643.998
+2025-06-01,Lisboa,Lisboa,1922.381
+2025-06-01,Lisboa,Loures,619.034
+2025-06-01,Lisboa,Lourinhã,20.721
+2025-06-01,Lisboa,Mafra,165.72
+2025-06-01,Lisboa,Odivelas,336.599
+2025-06-01,Lisboa,Oeiras,662.514
+2025-06-01,Lisboa,Sintra,692.821
+2025-06-01,Lisboa,Sobral de Monte Agraço,8.807
+2025-06-01,Lisboa,Torres Vedras,114.092
+2025-06-01,Lisboa,Vila Franca de Xira,274.982
+2025-06-01,Portalegre,Alter do Chão,4.89
+2025-06-01,Portalegre,Arronches,0.604
+2025-06-01,Portalegre,Avis,1.109
+2025-06-01,Portalegre,Campo Maior,2.906
+2025-06-01,Portalegre,Castelo de Vide,3.455
+2025-06-01,Portalegre,Crato,1.394
+2025-06-01,Portalegre,Elvas,19.003
+2025-06-01,Portalegre,Fronteira,0.6
+2025-06-01,Portalegre,Gavião,1.102
+2025-06-01,Portalegre,Marvão,0.614
+2025-06-01,Portalegre,Monforte,0.2
+2025-06-01,Portalegre,Nisa,0.941
+2025-06-01,Portalegre,Ponte de Sor,6.403
+2025-06-01,Portalegre,Portalegre,20.444
+2025-06-01,Portalegre,Sousel,0.888
+2025-06-01,Porto,Amarante,20.429
+2025-06-01,Porto,Baião,5.169
+2025-06-01,Porto,Felgueiras,36.276
+2025-06-01,Porto,Gondomar,154.314
+2025-06-01,Porto,Lousada,21.404
+2025-06-01,Porto,Maia,198.903
+2025-06-01,Porto,Marco de Canaveses,17.957
+2025-06-01,Porto,Matosinhos,416.52
+2025-06-01,Porto,Paredes,43.395
+2025-06-01,Porto,Paços de Ferreira,32.048
+2025-06-01,Porto,Penafiel,71.076
+2025-06-01,Porto,Porto,512.287
+2025-06-01,Porto,Póvoa de Varzim,73.374
+2025-06-01,Porto,Santo Tirso,41.194
+2025-06-01,Porto,Trofa,24.865
+2025-06-01,Porto,Valongo,138.033
+2025-06-01,Porto,Vila Nova de Gaia,483.99
+2025-06-01,Porto,Vila do Conde,122.582
+2025-06-01,Santarém,Abrantes,55.147
+2025-06-01,Santarém,Alcanena,11.008
+2025-06-01,Santarém,Almeirim,14.439
+2025-06-01,Santarém,Alpiarça,1.788
+2025-06-01,Santarém,Benavente,42.888
+2025-06-01,Santarém,Cartaxo,22.091
+2025-06-01,Santarém,Chamusca,2.643
+2025-06-01,Santarém,Constância,2.713
+2025-06-01,Santarém,Coruche,12.108
+2025-06-01,Santarém,Entroncamento,19.904
+2025-06-01,Santarém,Ferreira do Zêzere,7.211
+2025-06-01,Santarém,Golegã,4.057
+2025-06-01,Santarém,Mação,0.55
+2025-06-01,Santarém,Ourém,60.708
+2025-06-01,Santarém,Rio Maior,25.789
+2025-06-01,Santarém,Salvaterra de Magos,22.293
+2025-06-01,Santarém,Santarém,217.174
+2025-06-01,Santarém,Sardoal,0.356
+2025-06-01,Santarém,Tomar,42.538
+2025-06-01,Santarém,Torres Novas,42.09
+2025-06-01,Santarém,Vila Nova da Barquinha,2.027
+2025-06-01,Setúbal,Alcochete,106.369
+2025-06-01,Setúbal,Alcácer do Sal,87.983
+2025-06-01,Setúbal,Almada,308.228
+2025-06-01,Setúbal,Barreiro,195.939
+2025-06-01,Setúbal,Grândola,175.655
+2025-06-01,Setúbal,Moita,41.095
+2025-06-01,Setúbal,Montijo,185.863
+2025-06-01,Setúbal,Palmela,109.427
+2025-06-01,Setúbal,Santiago do Cacém,21.294
+2025-06-01,Setúbal,Seixal,305.725
+2025-06-01,Setúbal,Sesimbra,69.627
+2025-06-01,Setúbal,Setúbal,186.74
+2025-06-01,Setúbal,Sines,42.369
+2025-06-01,Viana do Castelo,Arcos de Valdevez,15.616
+2025-06-01,Viana do Castelo,Caminha,23.587
+2025-06-01,Viana do Castelo,Melgaço,5.012
+2025-06-01,Viana do Castelo,Monção,12.412
+2025-06-01,Viana do Castelo,Paredes de Coura,3.951
+2025-06-01,Viana do Castelo,Ponte da Barca,1.6
+2025-06-01,Viana do Castelo,Ponte de Lima,19.578
+2025-06-01,Viana do Castelo,Valença,11.977
+2025-06-01,Viana do Castelo,Viana do Castelo,72.694
+2025-06-01,Viana do Castelo,Vila Nova de Cerveira,11.578
+2025-06-01,Vila Real,Alijó,1.191
+2025-06-01,Vila Real,Boticas,0.747
+2025-06-01,Vila Real,Chaves,33.932
+2025-06-01,Vila Real,Mesão Frio,0.161
+2025-06-01,Vila Real,Mondim de Basto,3.347
+2025-06-01,Vila Real,Montalegre,2.059
+2025-06-01,Vila Real,Murça,0.819
+2025-06-01,Vila Real,Peso da Régua,13.683
+2025-06-01,Vila Real,Ribeira de Pena,1.768
+2025-06-01,Vila Real,Sabrosa,0.171
+2025-06-01,Vila Real,Santa Marta de Penaguião,0.918
+2025-06-01,Vila Real,Valpaços,2.339
+2025-06-01,Vila Real,Vila Pouca de Aguiar,2.852
+2025-06-01,Vila Real,Vila Real,64.658
+2025-06-01,Viseu,Armamar,2.023
+2025-06-01,Viseu,Carregal do Sal,3.037
+2025-06-01,Viseu,Castro daire,4.059
+2025-06-01,Viseu,Cinfães,1.542
+2025-06-01,Viseu,Lamego,25.808
+2025-06-01,Viseu,Mangualde,11.218
+2025-06-01,Viseu,Moimenta da Beira,0.913
+2025-06-01,Viseu,Mortágua,3.949
+2025-06-01,Viseu,Nelas,6.546
+2025-06-01,Viseu,Oliveira de Frades,2.642
+2025-06-01,Viseu,Penalva do Castelo,2.495
+2025-06-01,Viseu,Penedono,0.111
+2025-06-01,Viseu,Resende,4.742
+2025-06-01,Viseu,Santa Comba Dão,7.719
+2025-06-01,Viseu,Sernancelhe,3.146
+2025-06-01,Viseu,Sátão,2.856
+2025-06-01,Viseu,São João da Pesqueira,1.049
+2025-06-01,Viseu,São Pedro do Sul,5.462
+2025-06-01,Viseu,Tabuaço,1.472
+2025-06-01,Viseu,Tarouca,0.342
+2025-06-01,Viseu,Tondela,13.081
+2025-06-01,Viseu,Vila Nova de Paiva,1.788
+2025-06-01,Viseu,Viseu,105.798
+2025-06-01,Viseu,Vouzela,6.304
+2025-06-01,Évora,Alandroal,0.73
+2025-06-01,Évora,Arraiolos,2.357
+2025-06-01,Évora,Borba,2.063
+2025-06-01,Évora,Estremoz,36.161
+2025-06-01,Évora,Montemor-o-Novo,24.713
+2025-06-01,Évora,Mora,2.075
+2025-06-01,Évora,Mourão,1.532
+2025-06-01,Évora,Portel,1.244
+2025-06-01,Évora,Redondo,0.665
+2025-06-01,Évora,Reguengos de Monsaraz,12.554
+2025-06-01,Évora,Vendas Novas,34.415
+2025-06-01,Évora,Viana do Alentejo,1.706
+2025-06-01,Évora,Vila Viçosa,5.263
+2025-06-01,Évora,Évora,73.991
+2025-07-01,Aveiro,Albergaria-a-Velha,69.989
+2025-07-01,Aveiro,Anadia,17.999
+2025-07-01,Aveiro,Arouca,4.106
+2025-07-01,Aveiro,Aveiro,141.242
+2025-07-01,Aveiro,Castelo de Paiva,4.156
+2025-07-01,Aveiro,Espinho,34.241
+2025-07-01,Aveiro,Estarreja,144.768
+2025-07-01,Aveiro,Mealhada,33.18
+2025-07-01,Aveiro,Murtosa,3.094
+2025-07-01,Aveiro,Oliveira de Azeméis,18.168
+2025-07-01,Aveiro,Oliveira do Bairro,10.609
+2025-07-01,Aveiro,Ovar,49.17
+2025-07-01,Aveiro,Santa Maria da Feira,103.892
+2025-07-01,Aveiro,Sever do Vouga,4.243
+2025-07-01,Aveiro,São João da Madeira,34.331
+2025-07-01,Aveiro,Vagos,25.639
+2025-07-01,Aveiro,Vale de Cambra,9.734
+2025-07-01,Aveiro,Águeda,19.875
+2025-07-01,Aveiro,Ílhavo,35.414
+2025-07-01,Beja,Aljustrel,97.658
+2025-07-01,Beja,Almodôvar,206.647
+2025-07-01,Beja,Alvito,1.01
+2025-07-01,Beja,Barrancos,0.247
+2025-07-01,Beja,Beja,53.704
+2025-07-01,Beja,Castro Verde,14.295
+2025-07-01,Beja,Cuba,5.8
+2025-07-01,Beja,Ferreira do Alentejo,0.878
+2025-07-01,Beja,Moura,4.532
+2025-07-01,Beja,Mértola,5.213
+2025-07-01,Beja,Odemira,21.998
+2025-07-01,Beja,Ourique,12.458
+2025-07-01,Beja,Serpa,5.581
+2025-07-01,Beja,Vidigueira,4.281
+2025-07-01,Braga,Amares,2.016
+2025-07-01,Braga,Barcelos,94.709
+2025-07-01,Braga,Braga,309.349
+2025-07-01,Braga,Cabeceiras de Basto,9.721
+2025-07-01,Braga,Celorico de Basto,2.486
+2025-07-01,Braga,Esposende,57.485
+2025-07-01,Braga,Fafe,25.925
+2025-07-01,Braga,Guimarães,164.83
+2025-07-01,Braga,Póvoa de Lanhoso,4.371
+2025-07-01,Braga,Terras de Bouro,5.85
+2025-07-01,Braga,Vieira do Minho,6.524
+2025-07-01,Braga,Vila Nova de Famalicão,112.5
+2025-07-01,Braga,Vila Verde,25.006
+2025-07-01,Braga,Vizela,22.299
+2025-07-01,Bragança,Alfândega da Fé,1.553
+2025-07-01,Bragança,Bragança,34.694
+2025-07-01,Bragança,Carrazeda de Ansiães,0.643
+2025-07-01,Bragança,Freixo de Espada À Cinta,1.055
+2025-07-01,Bragança,Macedo de Cavaleiros,13.951
+2025-07-01,Bragança,Miranda do douro,5.35
+2025-07-01,Bragança,Mirandela,19.244
+2025-07-01,Bragança,Mogadouro,4.664
+2025-07-01,Bragança,Torre de Moncorvo,4.75
+2025-07-01,Bragança,Vila Flor,2.699
+2025-07-01,Bragança,Vimioso,1.045
+2025-07-01,Bragança,Vinhais,0.313
+2025-07-01,Castelo Branco,Belmonte,1.231
+2025-07-01,Castelo Branco,Castelo Branco,112.866
+2025-07-01,Castelo Branco,Covilhã,50.036
+2025-07-01,Castelo Branco,Fundão,30.467
+2025-07-01,Castelo Branco,Idanha-a-Nova,6.945
+2025-07-01,Castelo Branco,Oleiros,0.792
+2025-07-01,Castelo Branco,Penamacor,1.358
+2025-07-01,Castelo Branco,Proença-a-Nova,3.997
+2025-07-01,Castelo Branco,Sertã,10.733
+2025-07-01,Castelo Branco,Vila Velha de Ródão,15.934
+2025-07-01,Castelo Branco,Vila de Rei,1.411
+2025-07-01,Coimbra,Arganil,3.853
+2025-07-01,Coimbra,Cantanhede,152.893
+2025-07-01,Coimbra,Coimbra,219.64
+2025-07-01,Coimbra,Condeixa-a-Nova,23.622
+2025-07-01,Coimbra,Figueira da Foz,75.677
+2025-07-01,Coimbra,Góis,1.568
+2025-07-01,Coimbra,Lousã,14.105
+2025-07-01,Coimbra,Mira,12.663
+2025-07-01,Coimbra,Miranda do Corvo,5.38
+2025-07-01,Coimbra,Montemor-o-Velho,12.871
+2025-07-01,Coimbra,Oliveira do Hospital,17.078
+2025-07-01,Coimbra,Pampilhosa da Serra,1.871
+2025-07-01,Coimbra,Penacova,13.259
+2025-07-01,Coimbra,Penela,5.162
+2025-07-01,Coimbra,Soure,5.522
+2025-07-01,Coimbra,Tábua,5.09
+2025-07-01,Coimbra,Vila Nova de Poiares,2.812
+2025-07-01,Faro,Albufeira,283.929
+2025-07-01,Faro,Alcoutim,1.145
+2025-07-01,Faro,Aljezur,9.896
+2025-07-01,Faro,Castro Marim,48.139
+2025-07-01,Faro,Faro,253.282
+2025-07-01,Faro,Lagoa,166.097
+2025-07-01,Faro,Lagos,136.347
+2025-07-01,Faro,Loulé,461.926
+2025-07-01,Faro,Monchique,2.288
+2025-07-01,Faro,Olhão,87.217
+2025-07-01,Faro,Portimão,207.119
+2025-07-01,Faro,Silves,121.048
+2025-07-01,Faro,São Brás de Alportel,18.292
+2025-07-01,Faro,Tavira,52.711
+2025-07-01,Faro,Vila Real de Santo António,48.778
+2025-07-01,Faro,Vila do Bispo,20.199
+2025-07-01,Guarda,Aguiar da Beira,1.24
+2025-07-01,Guarda,Almeida,14.184
+2025-07-01,Guarda,Celorico da Beira,9.283
+2025-07-01,Guarda,Figueira de Castelo Rodrigo,0.69
+2025-07-01,Guarda,Fornos de Algodres,0.663
+2025-07-01,Guarda,Gouveia,1.589
+2025-07-01,Guarda,Guarda,48.056
+2025-07-01,Guarda,Manteigas,1.72
+2025-07-01,Guarda,Mêda,0.845
+2025-07-01,Guarda,Pinhel,0.601
+2025-07-01,Guarda,Sabugal,3.997
+2025-07-01,Guarda,Seia,10.514
+2025-07-01,Guarda,Trancoso,3.861
+2025-07-01,Guarda,Vila Nova de Foz Côa,4.313
+2025-07-01,Leiria,Alcobaça,60.51
+2025-07-01,Leiria,Alvaiázere,10.171
+2025-07-01,Leiria,Ansião,7.358
+2025-07-01,Leiria,Batalha,13.525
+2025-07-01,Leiria,Bombarral,16.98
+2025-07-01,Leiria,Caldas da Rainha,80.437
+2025-07-01,Leiria,Castanheira de Pêra,2.706
+2025-07-01,Leiria,Figueiró dos Vinhos,1.345
+2025-07-01,Leiria,Leiria,434.659
+2025-07-01,Leiria,Marinha Grande,37.09
+2025-07-01,Leiria,Nazaré,47.991
+2025-07-01,Leiria,Pedrógão Grande,5.005
+2025-07-01,Leiria,Peniche,42.402
+2025-07-01,Leiria,Pombal,131.432
+2025-07-01,Leiria,Porto de Mós,14.26
+2025-07-01,Leiria,Óbidos,83.652
+2025-07-01,Lisboa,Alenquer,48.639
+2025-07-01,Lisboa,Amadora,346.338
+2025-07-01,Lisboa,Arruda dos Vinhos,30.051
+2025-07-01,Lisboa,Azambuja,118.731
+2025-07-01,Lisboa,Cadaval,1.665
+2025-07-01,Lisboa,Cascais,696.685
+2025-07-01,Lisboa,Lisboa,2100.697
+2025-07-01,Lisboa,Loures,641.085
+2025-07-01,Lisboa,Lourinhã,27.003
+2025-07-01,Lisboa,Mafra,176.083
+2025-07-01,Lisboa,Odivelas,352.816
+2025-07-01,Lisboa,Oeiras,709.083
+2025-07-01,Lisboa,Sintra,774.698
+2025-07-01,Lisboa,Sobral de Monte Agraço,9.05
+2025-07-01,Lisboa,Torres Vedras,130.507
+2025-07-01,Lisboa,Vila Franca de Xira,275.892
+2025-07-01,Portalegre,Alter do Chão,5.234
+2025-07-01,Portalegre,Arronches,0.896
+2025-07-01,Portalegre,Avis,1.245
+2025-07-01,Portalegre,Campo Maior,2.703
+2025-07-01,Portalegre,Castelo de Vide,4.395
+2025-07-01,Portalegre,Crato,1.698
+2025-07-01,Portalegre,Elvas,18.584
+2025-07-01,Portalegre,Fronteira,0.667
+2025-07-01,Portalegre,Gavião,1.403
+2025-07-01,Portalegre,Marvão,1.231
+2025-07-01,Portalegre,Monforte,0.239
+2025-07-01,Portalegre,Nisa,2.098
+2025-07-01,Portalegre,Ponte de Sor,6.641
+2025-07-01,Portalegre,Portalegre,25.339
+2025-07-01,Portalegre,Sousel,1.371
+2025-07-01,Porto,Amarante,28.326
+2025-07-01,Porto,Baião,4.504
+2025-07-01,Porto,Felgueiras,37.091
+2025-07-01,Porto,Gondomar,169.707
+2025-07-01,Porto,Lousada,22.317
+2025-07-01,Porto,Maia,207.07
+2025-07-01,Porto,Marco de Canaveses,20.271
+2025-07-01,Porto,Matosinhos,449.14
+2025-07-01,Porto,Paredes,49.865
+2025-07-01,Porto,Paços de Ferreira,37.42
+2025-07-01,Porto,Penafiel,79.292
+2025-07-01,Porto,Porto,593.669
+2025-07-01,Porto,Póvoa de Varzim,87.784
+2025-07-01,Porto,Santo Tirso,41.865
+2025-07-01,Porto,Trofa,29.141
+2025-07-01,Porto,Valongo,157.402
+2025-07-01,Porto,Vila Nova de Gaia,544.685
+2025-07-01,Porto,Vila do Conde,139.269
+2025-07-01,Santarém,Abrantes,63.603
+2025-07-01,Santarém,Alcanena,11.433
+2025-07-01,Santarém,Almeirim,12.198
+2025-07-01,Santarém,Alpiarça,1.505
+2025-07-01,Santarém,Benavente,50.65
+2025-07-01,Santarém,Cartaxo,21.665
+2025-07-01,Santarém,Chamusca,3.04
+2025-07-01,Santarém,Constância,2.547
+2025-07-01,Santarém,Coruche,14.046
+2025-07-01,Santarém,Entroncamento,22.428
+2025-07-01,Santarém,Ferreira do Zêzere,8.25
+2025-07-01,Santarém,Golegã,4.707
+2025-07-01,Santarém,Mação,0.435
+2025-07-01,Santarém,Ourém,71.419
+2025-07-01,Santarém,Rio Maior,29.15
+2025-07-01,Santarém,Salvaterra de Magos,27.329
+2025-07-01,Santarém,Santarém,236.112
+2025-07-01,Santarém,Sardoal,0.717
+2025-07-01,Santarém,Tomar,47.761
+2025-07-01,Santarém,Torres Novas,48.986
+2025-07-01,Santarém,Vila Nova da Barquinha,2.3
+2025-07-01,Setúbal,Alcochete,111.461
+2025-07-01,Setúbal,Alcácer do Sal,106.661
+2025-07-01,Setúbal,Almada,334.506
+2025-07-01,Setúbal,Barreiro,204.782
+2025-07-01,Setúbal,Grândola,239.362
+2025-07-01,Setúbal,Moita,51.168
+2025-07-01,Setúbal,Montijo,212.523
+2025-07-01,Setúbal,Palmela,129.555
+2025-07-01,Setúbal,Santiago do Cacém,30.82
+2025-07-01,Setúbal,Seixal,334.359
+2025-07-01,Setúbal,Sesimbra,68.175
+2025-07-01,Setúbal,Setúbal,211.762
+2025-07-01,Setúbal,Sines,51.363
+2025-07-01,Viana do Castelo,Arcos de Valdevez,15.862
+2025-07-01,Viana do Castelo,Caminha,34.312
+2025-07-01,Viana do Castelo,Melgaço,5.132
+2025-07-01,Viana do Castelo,Monção,11.986
+2025-07-01,Viana do Castelo,Paredes de Coura,1.773
+2025-07-01,Viana do Castelo,Ponte da Barca,1.213
+2025-07-01,Viana do Castelo,Ponte de Lima,25.187
+2025-07-01,Viana do Castelo,Valença,13.175
+2025-07-01,Viana do Castelo,Viana do Castelo,85.839
+2025-07-01,Viana do Castelo,Vila Nova de Cerveira,12.735
+2025-07-01,Vila Real,Alijó,1.497
+2025-07-01,Vila Real,Boticas,1.056
+2025-07-01,Vila Real,Chaves,39.655
+2025-07-01,Vila Real,Mesão Frio,0.214
+2025-07-01,Vila Real,Mondim de Basto,3.621
+2025-07-01,Vila Real,Montalegre,2.005
+2025-07-01,Vila Real,Murça,1.591
+2025-07-01,Vila Real,Peso da Régua,19.995
+2025-07-01,Vila Real,Ribeira de Pena,2.78
+2025-07-01,Vila Real,Sabrosa,1.207
+2025-07-01,Vila Real,Santa Marta de Penaguião,1.088
+2025-07-01,Vila Real,Valpaços,2.665
+2025-07-01,Vila Real,Vila Pouca de Aguiar,4.277
+2025-07-01,Vila Real,Vila Real,81.021
+2025-07-01,Viseu,Armamar,2.099
+2025-07-01,Viseu,Carregal do Sal,3.405
+2025-07-01,Viseu,Castro daire,4.626
+2025-07-01,Viseu,Cinfães,2.102
+2025-07-01,Viseu,Lamego,29.634
+2025-07-01,Viseu,Mangualde,14.861
+2025-07-01,Viseu,Moimenta da Beira,1.878
+2025-07-01,Viseu,Mortágua,5.567
+2025-07-01,Viseu,Nelas,7.444
+2025-07-01,Viseu,Oliveira de Frades,5.182
+2025-07-01,Viseu,Penalva do Castelo,2.554
+2025-07-01,Viseu,Penedono,0.248
+2025-07-01,Viseu,Resende,6.355
+2025-07-01,Viseu,Santa Comba Dão,10.712
+2025-07-01,Viseu,Sernancelhe,3.521
+2025-07-01,Viseu,Sátão,3.225
+2025-07-01,Viseu,São João da Pesqueira,1.401
+2025-07-01,Viseu,São Pedro do Sul,7.504
+2025-07-01,Viseu,Tabuaço,1.33
+2025-07-01,Viseu,Tarouca,0.337
+2025-07-01,Viseu,Tondela,16.325
+2025-07-01,Viseu,Vila Nova de Paiva,1.974
+2025-07-01,Viseu,Viseu,120.639
+2025-07-01,Viseu,Vouzela,7.802
+2025-07-01,Évora,Alandroal,0.929
+2025-07-01,Évora,Arraiolos,2.166
+2025-07-01,Évora,Borba,3.523
+2025-07-01,Évora,Estremoz,43.482
+2025-07-01,Évora,Montemor-o-Novo,28.236
+2025-07-01,Évora,Mora,2.993
+2025-07-01,Évora,Mourão,1.609
+2025-07-01,Évora,Portel,0.754
+2025-07-01,Évora,Redondo,1.186
+2025-07-01,Évora,Reguengos de Monsaraz,13.239
+2025-07-01,Évora,Vendas Novas,37.109
+2025-07-01,Évora,Viana do Alentejo,2.204
+2025-07-01,Évora,Vila Viçosa,5.282
+2025-07-01,Évora,Évora,86.202
+2025-08-01,Aveiro,Albergaria-a-Velha,73.423
+2025-08-01,Aveiro,Anadia,22.735
+2025-08-01,Aveiro,Arouca,4.916
+2025-08-01,Aveiro,Aveiro,159.955
+2025-08-01,Aveiro,Castelo de Paiva,5.979
+2025-08-01,Aveiro,Espinho,23.657
+2025-08-01,Aveiro,Estarreja,141.832
+2025-08-01,Aveiro,Mealhada,39.293
+2025-08-01,Aveiro,Murtosa,4.39
+2025-08-01,Aveiro,Oliveira de Azeméis,17.108
+2025-08-01,Aveiro,Oliveira do Bairro,15.726
+2025-08-01,Aveiro,Ovar,50.984
+2025-08-01,Aveiro,Santa Maria da Feira,108.754
+2025-08-01,Aveiro,Sever do Vouga,6.344
+2025-08-01,Aveiro,São João da Madeira,36.464
+2025-08-01,Aveiro,Vagos,30.919
+2025-08-01,Aveiro,Vale de Cambra,11.507
+2025-08-01,Aveiro,Águeda,20.801
+2025-08-01,Aveiro,Ílhavo,40.574
+2025-08-01,Beja,Aljustrel,126.209
+2025-08-01,Beja,Almodôvar,265.04
+2025-08-01,Beja,Alvito,2.668
+2025-08-01,Beja,Barrancos,0.591
+2025-08-01,Beja,Beja,58.89
+2025-08-01,Beja,Castro Verde,17.399
+2025-08-01,Beja,Cuba,7.986
+2025-08-01,Beja,Ferreira do Alentejo,1.25
+2025-08-01,Beja,Moura,6.376
+2025-08-01,Beja,Mértola,9.568
+2025-08-01,Beja,Odemira,29.458
+2025-08-01,Beja,Ourique,17.322
+2025-08-01,Beja,Serpa,6.814
+2025-08-01,Beja,Vidigueira,5.21
+2025-08-01,Braga,Amares,3.76
+2025-08-01,Braga,Barcelos,108.854
+2025-08-01,Braga,Braga,319.886
+2025-08-01,Braga,Cabeceiras de Basto,14.776
+2025-08-01,Braga,Celorico de Basto,3.66
+2025-08-01,Braga,Esposende,66.613
+2025-08-01,Braga,Fafe,32.563
+2025-08-01,Braga,Guimarães,162.594
+2025-08-01,Braga,Póvoa de Lanhoso,6.316
+2025-08-01,Braga,Terras de Bouro,10.488
+2025-08-01,Braga,Vieira do Minho,9.69
+2025-08-01,Braga,Vila Nova de Famalicão,117.116
+2025-08-01,Braga,Vila Verde,31.84
+2025-08-01,Braga,Vizela,22.45
+2025-08-01,Bragança,Alfândega da Fé,4.043
+2025-08-01,Bragança,Bragança,49.384
+2025-08-01,Bragança,Carrazeda de Ansiães,0.335
+2025-08-01,Bragança,Freixo de Espada À Cinta,1.759
+2025-08-01,Bragança,Macedo de Cavaleiros,23.201
+2025-08-01,Bragança,Miranda do douro,13.455
+2025-08-01,Bragança,Mirandela,28.588
+2025-08-01,Bragança,Mogadouro,7.456
+2025-08-01,Bragança,Torre de Moncorvo,10.202
+2025-08-01,Bragança,Vila Flor,5.266
+2025-08-01,Bragança,Vimioso,2.935
+2025-08-01,Bragança,Vinhais,1.033
+2025-08-01,Castelo Branco,Belmonte,2.658
+2025-08-01,Castelo Branco,Castelo Branco,144.48
+2025-08-01,Castelo Branco,Covilhã,57.983
+2025-08-01,Castelo Branco,Fundão,38.438
+2025-08-01,Castelo Branco,Idanha-a-Nova,12.602
+2025-08-01,Castelo Branco,Oleiros,1.182
+2025-08-01,Castelo Branco,Penamacor,1.661
+2025-08-01,Castelo Branco,Proença-a-Nova,3.384
+2025-08-01,Castelo Branco,Sertã,15.089
+2025-08-01,Castelo Branco,Vila Velha de Ródão,23.479
+2025-08-01,Castelo Branco,Vila de Rei,1.591
+2025-08-01,Coimbra,Arganil,7.692
+2025-08-01,Coimbra,Cantanhede,161.313
+2025-08-01,Coimbra,Coimbra,206.16
+2025-08-01,Coimbra,Condeixa-a-Nova,30.719
+2025-08-01,Coimbra,Figueira da Foz,99.598
+2025-08-01,Coimbra,Góis,1.941
+2025-08-01,Coimbra,Lousã,14.059
+2025-08-01,Coimbra,Mira,16.59
+2025-08-01,Coimbra,Miranda do Corvo,6.365
+2025-08-01,Coimbra,Montemor-o-Velho,13.115
+2025-08-01,Coimbra,Oliveira do Hospital,20.489
+2025-08-01,Coimbra,Pampilhosa da Serra,5.46
+2025-08-01,Coimbra,Penacova,14.625
+2025-08-01,Coimbra,Penela,4.93
+2025-08-01,Coimbra,Soure,6.069
+2025-08-01,Coimbra,Tábua,7.404
+2025-08-01,Coimbra,Vila Nova de Poiares,1.983
+2025-08-01,Faro,Albufeira,343.005
+2025-08-01,Faro,Alcoutim,2.841
+2025-08-01,Faro,Aljezur,17.562
+2025-08-01,Faro,Castro Marim,78.1
+2025-08-01,Faro,Faro,248.55
+2025-08-01,Faro,Lagoa,180.401
+2025-08-01,Faro,Lagos,160.235
+2025-08-01,Faro,Loulé,622.36
+2025-08-01,Faro,Monchique,3.186
+2025-08-01,Faro,Olhão,121.223
+2025-08-01,Faro,Portimão,210.896
+2025-08-01,Faro,Silves,136.45
+2025-08-01,Faro,São Brás de Alportel,21.528
+2025-08-01,Faro,Tavira,79.846
+2025-08-01,Faro,Vila Real de Santo António,70.192
+2025-08-01,Faro,Vila do Bispo,33.675
+2025-08-01,Guarda,Aguiar da Beira,2.129
+2025-08-01,Guarda,Almeida,21.244
+2025-08-01,Guarda,Celorico da Beira,12.482
+2025-08-01,Guarda,Figueira de Castelo Rodrigo,2.474
+2025-08-01,Guarda,Fornos de Algodres,0.6
+2025-08-01,Guarda,Gouveia,4.409
+2025-08-01,Guarda,Guarda,67.418
+2025-08-01,Guarda,Manteigas,2.846
+2025-08-01,Guarda,Mêda,1.664
+2025-08-01,Guarda,Pinhel,2.527
+2025-08-01,Guarda,Sabugal,6.256
+2025-08-01,Guarda,Seia,15.991
+2025-08-01,Guarda,Trancoso,7.941
+2025-08-01,Guarda,Vila Nova de Foz Côa,6.726
+2025-08-01,Leiria,Alcobaça,70.537
+2025-08-01,Leiria,Alvaiázere,12.421
+2025-08-01,Leiria,Ansião,7.978
+2025-08-01,Leiria,Batalha,14.204
+2025-08-01,Leiria,Bombarral,17.838
+2025-08-01,Leiria,Caldas da Rainha,83.128
+2025-08-01,Leiria,Castanheira de Pêra,2.577
+2025-08-01,Leiria,Figueiró dos Vinhos,4.944
+2025-08-01,Leiria,Leiria,447.007
+2025-08-01,Leiria,Marinha Grande,41.064
+2025-08-01,Leiria,Nazaré,65.656
+2025-08-01,Leiria,Pedrógão Grande,10.504
+2025-08-01,Leiria,Peniche,48.648
+2025-08-01,Leiria,Pombal,147.234
+2025-08-01,Leiria,Porto de Mós,17.113
+2025-08-01,Leiria,Óbidos,91.312
+2025-08-01,Lisboa,Alenquer,50.912
+2025-08-01,Lisboa,Amadora,335.602
+2025-08-01,Lisboa,Arruda dos Vinhos,30.477
+2025-08-01,Lisboa,Azambuja,117.792
+2025-08-01,Lisboa,Cadaval,1.772
+2025-08-01,Lisboa,Cascais,691.917
+2025-08-01,Lisboa,Lisboa,1988.908
+2025-08-01,Lisboa,Loures,652.489
+2025-08-01,Lisboa,Lourinhã,35.761
+2025-08-01,Lisboa,Mafra,176.938
+2025-08-01,Lisboa,Odivelas,370.058
+2025-08-01,Lisboa,Oeiras,645.046
+2025-08-01,Lisboa,Sintra,776.466
+2025-08-01,Lisboa,Sobral de Monte Agraço,7.688
+2025-08-01,Lisboa,Torres Vedras,136.756
+2025-08-01,Lisboa,Vila Franca de Xira,292.574
+2025-08-01,Portalegre,Alter do Chão,9.348
+2025-08-01,Portalegre,Arronches,0.99
+2025-08-01,Portalegre,Avis,3.029
+2025-08-01,Portalegre,Campo Maior,3.778
+2025-08-01,Portalegre,Castelo de Vide,6.226
+2025-08-01,Portalegre,Crato,3.872
+2025-08-01,Portalegre,Elvas,31.879
+2025-08-01,Portalegre,Fronteira,1.058
+2025-08-01,Portalegre,Gavião,2.154
+2025-08-01,Portalegre,Marvão,1.45
+2025-08-01,Portalegre,Monforte,0.765
+2025-08-01,Portalegre,Nisa,2.059
+2025-08-01,Portalegre,Ponte de Sor,9.738
+2025-08-01,Portalegre,Portalegre,35.925
+2025-08-01,Portalegre,Sousel,1.37
+2025-08-01,Porto,Amarante,36.113
+2025-08-01,Porto,Baião,6.749
+2025-08-01,Porto,Felgueiras,32.26
+2025-08-01,Porto,Gondomar,161.144
+2025-08-01,Porto,Lousada,22.518
+2025-08-01,Porto,Maia,207.411
+2025-08-01,Porto,Marco de Canaveses,22.513
+2025-08-01,Porto,Matosinhos,432.98
+2025-08-01,Porto,Paredes,52.631
+2025-08-01,Porto,Paços de Ferreira,34.633
+2025-08-01,Porto,Penafiel,88.15
+2025-08-01,Porto,Porto,569.255
+2025-08-01,Porto,Póvoa de Varzim,90.778
+2025-08-01,Porto,Santo Tirso,45.604
+2025-08-01,Porto,Trofa,33.949
+2025-08-01,Porto,Valongo,147.799
+2025-08-01,Porto,Vila Nova de Gaia,546.48
+2025-08-01,Porto,Vila do Conde,147.448
+2025-08-01,Santarém,Abrantes,78.827
+2025-08-01,Santarém,Alcanena,13.013
+2025-08-01,Santarém,Almeirim,15.251
+2025-08-01,Santarém,Alpiarça,1.989
+2025-08-01,Santarém,Benavente,57.443
+2025-08-01,Santarém,Cartaxo,21.472
+2025-08-01,Santarém,Chamusca,3.918
+2025-08-01,Santarém,Constância,3.54
+2025-08-01,Santarém,Coruche,16.46
+2025-08-01,Santarém,Entroncamento,22.946
+2025-08-01,Santarém,Ferreira do Zêzere,13.356
+2025-08-01,Santarém,Golegã,5.652
+2025-08-01,Santarém,Mação,1.127
+2025-08-01,Santarém,Ourém,89.89
+2025-08-01,Santarém,Rio Maior,29.691
+2025-08-01,Santarém,Salvaterra de Magos,34.158
+2025-08-01,Santarém,Santarém,269.56
+2025-08-01,Santarém,Sardoal,0.895
+2025-08-01,Santarém,Tomar,55.205
+2025-08-01,Santarém,Torres Novas,57.583
+2025-08-01,Santarém,Vila Nova da Barquinha,2.18
+2025-08-01,Setúbal,Alcochete,117.394
+2025-08-01,Setúbal,Alcácer do Sal,131.366
+2025-08-01,Setúbal,Almada,249.667
+2025-08-01,Setúbal,Barreiro,208.604
+2025-08-01,Setúbal,Grândola,315.202
+2025-08-01,Setúbal,Moita,57.498
+2025-08-01,Setúbal,Montijo,230.287
+2025-08-01,Setúbal,Palmela,146.193
+2025-08-01,Setúbal,Santiago do Cacém,52.593
+2025-08-01,Setúbal,Seixal,359.881
+2025-08-01,Setúbal,Sesimbra,74.288
+2025-08-01,Setúbal,Setúbal,229.631
+2025-08-01,Setúbal,Sines,63.428
+2025-08-01,Viana do Castelo,Arcos de Valdevez,26.642
+2025-08-01,Viana do Castelo,Caminha,59.285
+2025-08-01,Viana do Castelo,Melgaço,8.106
+2025-08-01,Viana do Castelo,Monção,17.845
+2025-08-01,Viana do Castelo,Paredes de Coura,2.59
+2025-08-01,Viana do Castelo,Ponte da Barca,1.659
+2025-08-01,Viana do Castelo,Ponte de Lima,38.455
+2025-08-01,Viana do Castelo,Valença,18.265
+2025-08-01,Viana do Castelo,Viana do Castelo,114.048
+2025-08-01,Viana do Castelo,Vila Nova de Cerveira,18.942
+2025-08-01,Vila Real,Alijó,2.838
+2025-08-01,Vila Real,Boticas,1.853
+2025-08-01,Vila Real,Chaves,59.832
+2025-08-01,Vila Real,Mesão Frio,0.354
+2025-08-01,Vila Real,Mondim de Basto,4.209
+2025-08-01,Vila Real,Montalegre,2.403
+2025-08-01,Vila Real,Murça,1.412
+2025-08-01,Vila Real,Peso da Régua,23.633
+2025-08-01,Vila Real,Ribeira de Pena,4.078
+2025-08-01,Vila Real,Sabrosa,3.189
+2025-08-01,Vila Real,Santa Marta de Penaguião,1.266
+2025-08-01,Vila Real,Valpaços,5.494
+2025-08-01,Vila Real,Vila Pouca de Aguiar,6.813
+2025-08-01,Vila Real,Vila Real,84.44
+2025-08-01,Viseu,Armamar,3.668
+2025-08-01,Viseu,Carregal do Sal,3.859
+2025-08-01,Viseu,Castro daire,9.194
+2025-08-01,Viseu,Cinfães,3.441
+2025-08-01,Viseu,Lamego,33.835
+2025-08-01,Viseu,Mangualde,17.028
+2025-08-01,Viseu,Moimenta da Beira,1.942
+2025-08-01,Viseu,Mortágua,8.258
+2025-08-01,Viseu,Nelas,9.929
+2025-08-01,Viseu,Oliveira de Frades,6.461
+2025-08-01,Viseu,Penalva do Castelo,2.801
+2025-08-01,Viseu,Penedono,0.192
+2025-08-01,Viseu,Resende,9.292
+2025-08-01,Viseu,Santa Comba Dão,16.38
+2025-08-01,Viseu,Sernancelhe,7.129
+2025-08-01,Viseu,Sátão,4.871
+2025-08-01,Viseu,São João da Pesqueira,2.694
+2025-08-01,Viseu,São Pedro do Sul,13.009
+2025-08-01,Viseu,Tabuaço,1.654
+2025-08-01,Viseu,Tarouca,6.1
+2025-08-01,Viseu,Tondela,21.94
+2025-08-01,Viseu,Vila Nova de Paiva,5.132
+2025-08-01,Viseu,Viseu,146.474
+2025-08-01,Viseu,Vouzela,8.903
+2025-08-01,Évora,Alandroal,0.969
+2025-08-01,Évora,Arraiolos,2.631
+2025-08-01,Évora,Borba,3.756
+2025-08-01,Évora,Estremoz,51.752
+2025-08-01,Évora,Montemor-o-Novo,31.665
+2025-08-01,Évora,Mora,4.388
+2025-08-01,Évora,Mourão,5.443
+2025-08-01,Évora,Portel,1.451
+2025-08-01,Évora,Redondo,2.95
+2025-08-01,Évora,Reguengos de Monsaraz,17.23
+2025-08-01,Évora,Vendas Novas,42.608
+2025-08-01,Évora,Viana do Alentejo,3.723
+2025-08-01,Évora,Vila Viçosa,8.126
+2025-08-01,Évora,Évora,100.795
+2025-09-01,Aveiro,Albergaria-a-Velha,65.106
+2025-09-01,Aveiro,Anadia,17.226
+2025-09-01,Aveiro,Arouca,4.331
+2025-09-01,Aveiro,Aveiro,148.066
+2025-09-01,Aveiro,Castelo de Paiva,4.561
+2025-09-01,Aveiro,Espinho,24.886
+2025-09-01,Aveiro,Estarreja,137.296
+2025-09-01,Aveiro,Mealhada,33.436
+2025-09-01,Aveiro,Murtosa,3.305
+2025-09-01,Aveiro,Oliveira de Azeméis,17.942
+2025-09-01,Aveiro,Oliveira do Bairro,13.762
+2025-09-01,Aveiro,Ovar,53.524
+2025-09-01,Aveiro,Santa Maria da Feira,101.405
+2025-09-01,Aveiro,Sever do Vouga,3.988
+2025-09-01,Aveiro,São João da Madeira,34.594
+2025-09-01,Aveiro,Vagos,22.872
+2025-09-01,Aveiro,Vale de Cambra,9.409
+2025-09-01,Aveiro,Águeda,17.127
+2025-09-01,Aveiro,Ílhavo,38.131
+2025-09-01,Beja,Aljustrel,69.918
+2025-09-01,Beja,Almodôvar,130.428
+2025-09-01,Beja,Alvito,1.263
+2025-09-01,Beja,Barrancos,0.155
+2025-09-01,Beja,Beja,39.934
+2025-09-01,Beja,Castro Verde,8.602
+2025-09-01,Beja,Cuba,5.27
+2025-09-01,Beja,Ferreira do Alentejo,0.553
+2025-09-01,Beja,Moura,4.139
+2025-09-01,Beja,Mértola,3.8
+2025-09-01,Beja,Odemira,11.902
+2025-09-01,Beja,Ourique,7.12
+2025-09-01,Beja,Serpa,4.063
+2025-09-01,Beja,Vidigueira,3.839
+2025-09-01,Braga,Amares,2.158
+2025-09-01,Braga,Barcelos,79.445
+2025-09-01,Braga,Braga,298.401
+2025-09-01,Braga,Cabeceiras de Basto,8.279
+2025-09-01,Braga,Celorico de Basto,2.537
+2025-09-01,Braga,Esposende,44.832
+2025-09-01,Braga,Fafe,22.415
+2025-09-01,Braga,Guimarães,149.91
+2025-09-01,Braga,Póvoa de Lanhoso,4.574
+2025-09-01,Braga,Terras de Bouro,4.456
+2025-09-01,Braga,Vieira do Minho,3.741
+2025-09-01,Braga,Vila Nova de Famalicão,102.469
+2025-09-01,Braga,Vila Verde,20.083
+2025-09-01,Braga,Vizela,21.493
+2025-09-01,Bragança,Alfândega da Fé,1.489
+2025-09-01,Bragança,Bragança,32.321
+2025-09-01,Bragança,Carrazeda de Ansiães,0.164
+2025-09-01,Bragança,Freixo de Espada À Cinta,0.37
+2025-09-01,Bragança,Macedo de Cavaleiros,10.346
+2025-09-01,Bragança,Miranda do douro,5.225
+2025-09-01,Bragança,Mirandela,19.012
+2025-09-01,Bragança,Mogadouro,3.624
+2025-09-01,Bragança,Torre de Moncorvo,4.618
+2025-09-01,Bragança,Vila Flor,2.742
+2025-09-01,Bragança,Vimioso,0.839
+2025-09-01,Bragança,Vinhais,0.535
+2025-09-01,Castelo Branco,Belmonte,1.092
+2025-09-01,Castelo Branco,Castelo Branco,88.934
+2025-09-01,Castelo Branco,Covilhã,52.461
+2025-09-01,Castelo Branco,Fundão,27.285
+2025-09-01,Castelo Branco,Idanha-a-Nova,4.451
+2025-09-01,Castelo Branco,Oleiros,1.028
+2025-09-01,Castelo Branco,Penamacor,0.613
+2025-09-01,Castelo Branco,Proença-a-Nova,2.728
+2025-09-01,Castelo Branco,Sertã,8.641
+2025-09-01,Castelo Branco,Vila Velha de Ródão,12.55
+2025-09-01,Castelo Branco,Vila de Rei,0.84
+2025-09-01,Coimbra,Arganil,3.568
+2025-09-01,Coimbra,Cantanhede,145.952
+2025-09-01,Coimbra,Coimbra,228.674
+2025-09-01,Coimbra,Condeixa-a-Nova,29.022
+2025-09-01,Coimbra,Figueira da Foz,66.686
+2025-09-01,Coimbra,Góis,0.886
+2025-09-01,Coimbra,Lousã,12.492
+2025-09-01,Coimbra,Mira,6.754
+2025-09-01,Coimbra,Miranda do Corvo,5.055
+2025-09-01,Coimbra,Montemor-o-Velho,11.55
+2025-09-01,Coimbra,Oliveira do Hospital,12.797
+2025-09-01,Coimbra,Pampilhosa da Serra,2.184
+2025-09-01,Coimbra,Penacova,9.552
+2025-09-01,Coimbra,Penela,3.737
+2025-09-01,Coimbra,Soure,5.822
+2025-09-01,Coimbra,Tábua,4.322
+2025-09-01,Coimbra,Vila Nova de Poiares,1.487
+2025-09-01,Faro,Albufeira,183.221
+2025-09-01,Faro,Alcoutim,1.137
+2025-09-01,Faro,Aljezur,6.219
+2025-09-01,Faro,Castro Marim,24.169
+2025-09-01,Faro,Faro,180.68
+2025-09-01,Faro,Lagoa,84.694
+2025-09-01,Faro,Lagos,89.69
+2025-09-01,Faro,Loulé,252.003
+2025-09-01,Faro,Monchique,1.459
+2025-09-01,Faro,Olhão,60.144
+2025-09-01,Faro,Portimão,111.367
+2025-09-01,Faro,Silves,67.641
+2025-09-01,Faro,São Brás de Alportel,13.342
+2025-09-01,Faro,Tavira,39.411
+2025-09-01,Faro,Vila Real de Santo António,32.064
+2025-09-01,Faro,Vila do Bispo,15.095
+2025-09-01,Guarda,Aguiar da Beira,1.353
+2025-09-01,Guarda,Almeida,7.823
+2025-09-01,Guarda,Celorico da Beira,8.786
+2025-09-01,Guarda,Figueira de Castelo Rodrigo,1.002
+2025-09-01,Guarda,Fornos de Algodres,0.659
+2025-09-01,Guarda,Gouveia,2.542
+2025-09-01,Guarda,Guarda,45.469
+2025-09-01,Guarda,Manteigas,1.801
+2025-09-01,Guarda,Mêda,0.696
+2025-09-01,Guarda,Pinhel,0.58
+2025-09-01,Guarda,Sabugal,2.861
+2025-09-01,Guarda,Seia,9.199
+2025-09-01,Guarda,Trancoso,5.363
+2025-09-01,Guarda,Vila Nova de Foz Côa,4.637
+2025-09-01,Leiria,Alcobaça,53.659
+2025-09-01,Leiria,Alvaiázere,8.447
+2025-09-01,Leiria,Ansião,5.535
+2025-09-01,Leiria,Batalha,12.539
+2025-09-01,Leiria,Bombarral,13.823
+2025-09-01,Leiria,Caldas da Rainha,73.218
+2025-09-01,Leiria,Castanheira de Pêra,1.518
+2025-09-01,Leiria,Figueiró dos Vinhos,3.042
+2025-09-01,Leiria,Leiria,411.173
+2025-09-01,Leiria,Marinha Grande,31.837
+2025-09-01,Leiria,Nazaré,46.539
+2025-09-01,Leiria,Pedrógão Grande,5.537
+2025-09-01,Leiria,Peniche,34.866
+2025-09-01,Leiria,Pombal,117.288
+2025-09-01,Leiria,Porto de Mós,15.448
+2025-09-01,Leiria,Óbidos,69.769
+2025-09-01,Lisboa,Alenquer,44.274
+2025-09-01,Lisboa,Amadora,347.116
+2025-09-01,Lisboa,Arruda dos Vinhos,30.696
+2025-09-01,Lisboa,Azambuja,111.887
+2025-09-01,Lisboa,Cadaval,1.902
+2025-09-01,Lisboa,Cascais,705.992
+2025-09-01,Lisboa,Lisboa,2186.027
+2025-09-01,Lisboa,Loures,622.522
+2025-09-01,Lisboa,Lourinhã,24.545
+2025-09-01,Lisboa,Mafra,163.147
+2025-09-01,Lisboa,Odivelas,379.604
+2025-09-01,Lisboa,Oeiras,688.029
+2025-09-01,Lisboa,Sintra,731.976
+2025-09-01,Lisboa,Sobral de Monte Agraço,8.938
+2025-09-01,Lisboa,Torres Vedras,133.729
+2025-09-01,Lisboa,Vila Franca de Xira,310.446
+2025-09-01,Portalegre,Alter do Chão,4.446
+2025-09-01,Portalegre,Arronches,1.389
+2025-09-01,Portalegre,Avis,1.387
+2025-09-01,Portalegre,Campo Maior,4.044
+2025-09-01,Portalegre,Castelo de Vide,3.28
+2025-09-01,Portalegre,Crato,1.658
+2025-09-01,Portalegre,Elvas,22.423
+2025-09-01,Portalegre,Fronteira,0.585
+2025-09-01,Portalegre,Gavião,1.54
+2025-09-01,Portalegre,Marvão,0.738
+2025-09-01,Portalegre,Monforte,0.094
+2025-09-01,Portalegre,Nisa,1.188
+2025-09-01,Portalegre,Ponte de Sor,8.989
+2025-09-01,Portalegre,Portalegre,23.961
+2025-09-01,Portalegre,Sousel,1.622
+2025-09-01,Porto,Amarante,23.704
+2025-09-01,Porto,Baião,4.39
+2025-09-01,Porto,Felgueiras,32.639
+2025-09-01,Porto,Gondomar,164.386
+2025-09-01,Porto,Lousada,20.782
+2025-09-01,Porto,Maia,183.459
+2025-09-01,Porto,Marco de Canaveses,18.944
+2025-09-01,Porto,Matosinhos,434.693
+2025-09-01,Porto,Paredes,49.71
+2025-09-01,Porto,Paços de Ferreira,35.506
+2025-09-01,Porto,Penafiel,76.304
+2025-09-01,Porto,Porto,619.618
+2025-09-01,Porto,Póvoa de Varzim,69.591
+2025-09-01,Porto,Santo Tirso,43.318
+2025-09-01,Porto,Trofa,33.889
+2025-09-01,Porto,Valongo,148.301
+2025-09-01,Porto,Vila Nova de Gaia,548.593
+2025-09-01,Porto,Vila do Conde,132.681
+2025-09-01,Santarém,Abrantes,55.311
+2025-09-01,Santarém,Alcanena,9.486
+2025-09-01,Santarém,Almeirim,15.171
+2025-09-01,Santarém,Alpiarça,1.783
+2025-09-01,Santarém,Benavente,49.662
+2025-09-01,Santarém,Cartaxo,16.355
+2025-09-01,Santarém,Chamusca,3.413
+2025-09-01,Santarém,Constância,2.284
+2025-09-01,Santarém,Coruche,11.305
+2025-09-01,Santarém,Entroncamento,18.369
+2025-09-01,Santarém,Ferreira do Zêzere,7.685
+2025-09-01,Santarém,Golegã,7.027
+2025-09-01,Santarém,Mação,0.461
+2025-09-01,Santarém,Ourém,59.332
+2025-09-01,Santarém,Rio Maior,28.897
+2025-09-01,Santarém,Salvaterra de Magos,22.416
+2025-09-01,Santarém,Santarém,226.185
+2025-09-01,Santarém,Sardoal,0.713
+2025-09-01,Santarém,Tomar,39.606
+2025-09-01,Santarém,Torres Novas,53.504
+2025-09-01,Santarém,Vila Nova da Barquinha,2.019
+2025-09-01,Setúbal,Alcochete,102.722
+2025-09-01,Setúbal,Alcácer do Sal,82.076
+2025-09-01,Setúbal,Almada,242.24
+2025-09-01,Setúbal,Barreiro,195.112
+2025-09-01,Setúbal,Grândola,167.151
+2025-09-01,Setúbal,Moita,48.569
+2025-09-01,Setúbal,Montijo,208.415
+2025-09-01,Setúbal,Palmela,132.814
+2025-09-01,Setúbal,Santiago do Cacém,24.196
+2025-09-01,Setúbal,Seixal,347.201
+2025-09-01,Setúbal,Sesimbra,38.635
+2025-09-01,Setúbal,Setúbal,210.284
+2025-09-01,Setúbal,Sines,44.5
+2025-09-01,Viana do Castelo,Arcos de Valdevez,13.228
+2025-09-01,Viana do Castelo,Caminha,22.573
+2025-09-01,Viana do Castelo,Melgaço,4.597
+2025-09-01,Viana do Castelo,Monção,9.009
+2025-09-01,Viana do Castelo,Paredes de Coura,1.69
+2025-09-01,Viana do Castelo,Ponte da Barca,1.082
+2025-09-01,Viana do Castelo,Ponte de Lima,21.869
+2025-09-01,Viana do Castelo,Valença,15.186
+2025-09-01,Viana do Castelo,Viana do Castelo,77.022
+2025-09-01,Viana do Castelo,Vila Nova de Cerveira,9.782
+2025-09-01,Vila Real,Alijó,0.896
+2025-09-01,Vila Real,Boticas,0.694
+2025-09-01,Vila Real,Chaves,34.375
+2025-09-01,Vila Real,Mesão Frio,0.251
+2025-09-01,Vila Real,Mondim de Basto,2.763
+2025-09-01,Vila Real,Montalegre,1.832
+2025-09-01,Vila Real,Murça,1.476
+2025-09-01,Vila Real,Peso da Régua,15.033
+2025-09-01,Vila Real,Ribeira de Pena,2.492
+2025-09-01,Vila Real,Sabrosa,2.019
+2025-09-01,Vila Real,Santa Marta de Penaguião,0.786
+2025-09-01,Vila Real,Valpaços,3.163
+2025-09-01,Vila Real,Vila Pouca de Aguiar,3.249
+2025-09-01,Vila Real,Vila Real,64.589
+2025-09-01,Viseu,Armamar,1.685
+2025-09-01,Viseu,Carregal do Sal,2.884
+2025-09-01,Viseu,Castro daire,4.033
+2025-09-01,Viseu,Cinfães,1.626
+2025-09-01,Viseu,Lamego,24.946
+2025-09-01,Viseu,Mangualde,11.891
+2025-09-01,Viseu,Moimenta da Beira,1.754
+2025-09-01,Viseu,Mortágua,6.306
+2025-09-01,Viseu,Nelas,8.352
+2025-09-01,Viseu,Oliveira de Frades,3.752
+2025-09-01,Viseu,Penalva do Castelo,2.526
+2025-09-01,Viseu,Penedono,0.088
+2025-09-01,Viseu,Resende,5.007
+2025-09-01,Viseu,Santa Comba Dão,8.054
+2025-09-01,Viseu,Sernancelhe,3.4
+2025-09-01,Viseu,Sátão,2.001
+2025-09-01,Viseu,São João da Pesqueira,2.531
+2025-09-01,Viseu,São Pedro do Sul,7.898
+2025-09-01,Viseu,Tabuaço,1.228
+2025-09-01,Viseu,Tarouca,2.332
+2025-09-01,Viseu,Tondela,14.97
+2025-09-01,Viseu,Vila Nova de Paiva,1.052
+2025-09-01,Viseu,Viseu,124.917
+2025-09-01,Viseu,Vouzela,7.328
+2025-09-01,Évora,Alandroal,0.587
+2025-09-01,Évora,Arraiolos,2.219
+2025-09-01,Évora,Borba,3.502
+2025-09-01,Évora,Estremoz,41.384
+2025-09-01,Évora,Montemor-o-Novo,19.687
+2025-09-01,Évora,Mora,1.868
+2025-09-01,Évora,Mourão,3.581
+2025-09-01,Évora,Portel,0.909
+2025-09-01,Évora,Redondo,1.835
+2025-09-01,Évora,Reguengos de Monsaraz,10.51
+2025-09-01,Évora,Vendas Novas,36.83
+2025-09-01,Évora,Viana do Alentejo,1.746
+2025-09-01,Évora,Vila Viçosa,5.661
+2025-09-01,Évora,Évora,82.821
+2025-10-01,Aveiro,Albergaria-a-Velha,62.913
+2025-10-01,Aveiro,Anadia,20.885
+2025-10-01,Aveiro,Arouca,4.189
+2025-10-01,Aveiro,Aveiro,166.656
+2025-10-01,Aveiro,Castelo de Paiva,3.594
+2025-10-01,Aveiro,Espinho,30.789
+2025-10-01,Aveiro,Estarreja,142.156
+2025-10-01,Aveiro,Mealhada,32.165
+2025-10-01,Aveiro,Murtosa,3.591
+2025-10-01,Aveiro,Oliveira de Azeméis,20.591
+2025-10-01,Aveiro,Oliveira do Bairro,14.473
+2025-10-01,Aveiro,Ovar,66.45
+2025-10-01,Aveiro,Santa Maria da Feira,109.203
+2025-10-01,Aveiro,Sever do Vouga,3.308
+2025-10-01,Aveiro,São João da Madeira,40.372
+2025-10-01,Aveiro,Vagos,22.443
+2025-10-01,Aveiro,Vale de Cambra,11.483
+2025-10-01,Aveiro,Águeda,15.686
+2025-10-01,Aveiro,Ílhavo,42.551
+2025-10-01,Beja,Aljustrel,46.463
+2025-10-01,Beja,Almodôvar,97.007
+2025-10-01,Beja,Alvito,1.228
+2025-10-01,Beja,Barrancos,0.3
+2025-10-01,Beja,Beja,37.964
+2025-10-01,Beja,Castro Verde,6.477
+2025-10-01,Beja,Cuba,4.449
+2025-10-01,Beja,Ferreira do Alentejo,0.741
+2025-10-01,Beja,Moura,4.619
+2025-10-01,Beja,Mértola,3.437
+2025-10-01,Beja,Odemira,7.716
+2025-10-01,Beja,Ourique,5.811
+2025-10-01,Beja,Serpa,2.843
+2025-10-01,Beja,Vidigueira,3.256
+2025-10-01,Braga,Amares,2.831
+2025-10-01,Braga,Barcelos,82.931
+2025-10-01,Braga,Braga,318.396
+2025-10-01,Braga,Cabeceiras de Basto,7.152
+2025-10-01,Braga,Celorico de Basto,2.896
+2025-10-01,Braga,Esposende,43.452
+2025-10-01,Braga,Fafe,26.954
+2025-10-01,Braga,Guimarães,177.959
+2025-10-01,Braga,Póvoa de Lanhoso,5.295
+2025-10-01,Braga,Terras de Bouro,3.642
+2025-10-01,Braga,Vieira do Minho,4.017
+2025-10-01,Braga,Vila Nova de Famalicão,113.021
+2025-10-01,Braga,Vila Verde,20.311
+2025-10-01,Braga,Vizela,21.116
+2025-10-01,Bragança,Alfândega da Fé,1.642
+2025-10-01,Bragança,Bragança,31.003
+2025-10-01,Bragança,Carrazeda de Ansiães,0.131
+2025-10-01,Bragança,Freixo de Espada À Cinta,0.521
+2025-10-01,Bragança,Macedo de Cavaleiros,9.108
+2025-10-01,Bragança,Miranda do douro,3.799
+2025-10-01,Bragança,Mirandela,19.768
+2025-10-01,Bragança,Mogadouro,4.492
+2025-10-01,Bragança,Torre de Moncorvo,4.702
+2025-10-01,Bragança,Vila Flor,2.947
+2025-10-01,Bragança,Vimioso,0.82
+2025-10-01,Bragança,Vinhais,0.278
+2025-10-01,Castelo Branco,Belmonte,1.231
+2025-10-01,Castelo Branco,Castelo Branco,87.674
+2025-10-01,Castelo Branco,Covilhã,51.822
+2025-10-01,Castelo Branco,Fundão,31.576
+2025-10-01,Castelo Branco,Idanha-a-Nova,3.237
+2025-10-01,Castelo Branco,Oleiros,0.556
+2025-10-01,Castelo Branco,Penamacor,0.367
+2025-10-01,Castelo Branco,Proença-a-Nova,2.266
+2025-10-01,Castelo Branco,Sertã,7.923
+2025-10-01,Castelo Branco,Vila Velha de Ródão,15.017
+2025-10-01,Castelo Branco,Vila de Rei,0.583
+2025-10-01,Coimbra,Arganil,2.826
+2025-10-01,Coimbra,Cantanhede,153.299
+2025-10-01,Coimbra,Coimbra,252.611
+2025-10-01,Coimbra,Condeixa-a-Nova,31.447
+2025-10-01,Coimbra,Figueira da Foz,65.406
+2025-10-01,Coimbra,Góis,0.545
+2025-10-01,Coimbra,Lousã,12.013
+2025-10-01,Coimbra,Mira,5.912
+2025-10-01,Coimbra,Miranda do Corvo,5.1
+2025-10-01,Coimbra,Montemor-o-Velho,12.62
+2025-10-01,Coimbra,Oliveira do Hospital,12.745
+2025-10-01,Coimbra,Pampilhosa da Serra,1.141
+2025-10-01,Coimbra,Penacova,12.064
+2025-10-01,Coimbra,Penela,2.104
+2025-10-01,Coimbra,Soure,6.011
+2025-10-01,Coimbra,Tábua,3.297
+2025-10-01,Coimbra,Vila Nova de Poiares,1.356
+2025-10-01,Faro,Albufeira,134.454
+2025-10-01,Faro,Alcoutim,1.267
+2025-10-01,Faro,Aljezur,4.769
+2025-10-01,Faro,Castro Marim,12.817
+2025-10-01,Faro,Faro,153.067
+2025-10-01,Faro,Lagoa,60.482
+2025-10-01,Faro,Lagos,65.928
+2025-10-01,Faro,Loulé,201.125
+2025-10-01,Faro,Monchique,1.599
+2025-10-01,Faro,Olhão,47.83
+2025-10-01,Faro,Portimão,86.618
+2025-10-01,Faro,Silves,45.04
+2025-10-01,Faro,São Brás de Alportel,11.461
+2025-10-01,Faro,Tavira,23.254
+2025-10-01,Faro,Vila Real de Santo António,15.013
+2025-10-01,Faro,Vila do Bispo,10.971
+2025-10-01,Guarda,Aguiar da Beira,1.5
+2025-10-01,Guarda,Almeida,7.33
+2025-10-01,Guarda,Celorico da Beira,8.706
+2025-10-01,Guarda,Figueira de Castelo Rodrigo,0.773
+2025-10-01,Guarda,Fornos de Algodres,0.395
+2025-10-01,Guarda,Gouveia,2.578
+2025-10-01,Guarda,Guarda,43.414
+2025-10-01,Guarda,Manteigas,2.675
+2025-10-01,Guarda,Mêda,1.023
+2025-10-01,Guarda,Pinhel,0.663
+2025-10-01,Guarda,Sabugal,3.264
+2025-10-01,Guarda,Seia,8.011
+2025-10-01,Guarda,Trancoso,3.963
+2025-10-01,Guarda,Vila Nova de Foz Côa,5.239
+2025-10-01,Leiria,Alcobaça,52.127
+2025-10-01,Leiria,Alvaiázere,7.956
+2025-10-01,Leiria,Ansião,6.011
+2025-10-01,Leiria,Batalha,15.305
+2025-10-01,Leiria,Bombarral,7.746
+2025-10-01,Leiria,Caldas da Rainha,71.588
+2025-10-01,Leiria,Castanheira de Pêra,1.574
+2025-10-01,Leiria,Figueiró dos Vinhos,2.734
+2025-10-01,Leiria,Leiria,405.966
+2025-10-01,Leiria,Marinha Grande,34.436
+2025-10-01,Leiria,Nazaré,50.616
+2025-10-01,Leiria,Pedrógão Grande,4.932
+2025-10-01,Leiria,Peniche,33.296
+2025-10-01,Leiria,Pombal,127.44
+2025-10-01,Leiria,Porto de Mós,14.94
+2025-10-01,Leiria,Óbidos,77.583
+2025-10-01,Lisboa,Alenquer,45.715
+2025-10-01,Lisboa,Amadora,366.039
+2025-10-01,Lisboa,Arruda dos Vinhos,30.241
+2025-10-01,Lisboa,Azambuja,109.519
+2025-10-01,Lisboa,Cadaval,3.068
+2025-10-01,Lisboa,Cascais,744.182
+2025-10-01,Lisboa,Lisboa,2232.753
+2025-10-01,Lisboa,Loures,634.711
+2025-10-01,Lisboa,Lourinhã,12.036
+2025-10-01,Lisboa,Mafra,167.219
+2025-10-01,Lisboa,Odivelas,359.454
+2025-10-01,Lisboa,Oeiras,744.16
+2025-10-01,Lisboa,Sintra,760.673
+2025-10-01,Lisboa,Sobral de Monte Agraço,8.964
+2025-10-01,Lisboa,Torres Vedras,137.433
+2025-10-01,Lisboa,Vila Franca de Xira,316.692
+2025-10-01,Portalegre,Alter do Chão,3.794
+2025-10-01,Portalegre,Arronches,0.989
+2025-10-01,Portalegre,Avis,1.596
+2025-10-01,Portalegre,Campo Maior,4.138
+2025-10-01,Portalegre,Castelo de Vide,1.214
+2025-10-01,Portalegre,Crato,0.947
+2025-10-01,Portalegre,Elvas,19.465
+2025-10-01,Portalegre,Fronteira,0.66
+2025-10-01,Portalegre,Gavião,0.845
+2025-10-01,Portalegre,Marvão,0.481
+2025-10-01,Portalegre,Monforte,0.53
+2025-10-01,Portalegre,Nisa,1.398
+2025-10-01,Portalegre,Ponte de Sor,9.922
+2025-10-01,Portalegre,Portalegre,23.83
+2025-10-01,Portalegre,Sousel,1.18
+2025-10-01,Porto,Amarante,24.263
+2025-10-01,Porto,Baião,4.653
+2025-10-01,Porto,Felgueiras,33.421
+2025-10-01,Porto,Gondomar,169.643
+2025-10-01,Porto,Lousada,22.53
+2025-10-01,Porto,Maia,203.005
+2025-10-01,Porto,Marco de Canaveses,20.721
+2025-10-01,Porto,Matosinhos,458.321
+2025-10-01,Porto,Paredes,57.751
+2025-10-01,Porto,Paços de Ferreira,42.607
+2025-10-01,Porto,Penafiel,77.783
+2025-10-01,Porto,Porto,674.722
+2025-10-01,Porto,Póvoa de Varzim,69.872
+2025-10-01,Porto,Santo Tirso,49.865
+2025-10-01,Porto,Trofa,35.591
+2025-10-01,Porto,Valongo,162.489
+2025-10-01,Porto,Vila Nova de Gaia,569.478
+2025-10-01,Porto,Vila do Conde,133.968
+2025-10-01,Santarém,Abrantes,53.886
+2025-10-01,Santarém,Alcanena,10.775
+2025-10-01,Santarém,Almeirim,16.108
+2025-10-01,Santarém,Alpiarça,1.618
+2025-10-01,Santarém,Benavente,50.73
+2025-10-01,Santarém,Cartaxo,11.586
+2025-10-01,Santarém,Chamusca,4.775
+2025-10-01,Santarém,Constância,1.533
+2025-10-01,Santarém,Coruche,11.082
+2025-10-01,Santarém,Entroncamento,13.412
+2025-10-01,Santarém,Ferreira do Zêzere,6.781
+2025-10-01,Santarém,Golegã,5.237
+2025-10-01,Santarém,Mação,0.503
+2025-10-01,Santarém,Ourém,56.597
+2025-10-01,Santarém,Rio Maior,34.37
+2025-10-01,Santarém,Salvaterra de Magos,12.814
+2025-10-01,Santarém,Santarém,217.012
+2025-10-01,Santarém,Sardoal,0.775
+2025-10-01,Santarém,Tomar,35.949
+2025-10-01,Santarém,Torres Novas,57.409
+2025-10-01,Santarém,Vila Nova da Barquinha,3.223
+2025-10-01,Setúbal,Alcochete,102.101
+2025-10-01,Setúbal,Alcácer do Sal,48.852
+2025-10-01,Setúbal,Almada,274.231
+2025-10-01,Setúbal,Barreiro,208.378
+2025-10-01,Setúbal,Grândola,130.059
+2025-10-01,Setúbal,Moita,51.127
+2025-10-01,Setúbal,Montijo,213.44
+2025-10-01,Setúbal,Palmela,110.262
+2025-10-01,Setúbal,Santiago do Cacém,20.458
+2025-10-01,Setúbal,Seixal,346.994
+2025-10-01,Setúbal,Sesimbra,23.33
+2025-10-01,Setúbal,Setúbal,213.239
+2025-10-01,Setúbal,Sines,36.231
+2025-10-01,Viana do Castelo,Arcos de Valdevez,11.57
+2025-10-01,Viana do Castelo,Caminha,21.021
+2025-10-01,Viana do Castelo,Melgaço,4.814
+2025-10-01,Viana do Castelo,Monção,9.177
+2025-10-01,Viana do Castelo,Paredes de Coura,2.649
+2025-10-01,Viana do Castelo,Ponte da Barca,1.452
+2025-10-01,Viana do Castelo,Ponte de Lima,22.13
+2025-10-01,Viana do Castelo,Valença,14.314
+2025-10-01,Viana do Castelo,Viana do Castelo,75.923
+2025-10-01,Viana do Castelo,Vila Nova de Cerveira,8.459
+2025-10-01,Vila Real,Alijó,0.725
+2025-10-01,Vila Real,Boticas,1.577
+2025-10-01,Vila Real,Chaves,37.773
+2025-10-01,Vila Real,Mesão Frio,0.303
+2025-10-01,Vila Real,Mondim de Basto,2.614
+2025-10-01,Vila Real,Montalegre,2.342
+2025-10-01,Vila Real,Murça,2.64
+2025-10-01,Vila Real,Peso da Régua,14.648
+2025-10-01,Vila Real,Ribeira de Pena,1.987
+2025-10-01,Vila Real,Sabrosa,1.422
+2025-10-01,Vila Real,Santa Marta de Penaguião,0.951
+2025-10-01,Vila Real,Valpaços,3.454
+2025-10-01,Vila Real,Vila Pouca de Aguiar,3.087
+2025-10-01,Vila Real,Vila Real,73.332
+2025-10-01,Viseu,Armamar,1.839
+2025-10-01,Viseu,Carregal do Sal,2.169
+2025-10-01,Viseu,Castro daire,4.482
+2025-10-01,Viseu,Cinfães,0.821
+2025-10-01,Viseu,Lamego,22.214
+2025-10-01,Viseu,Mangualde,11.88
+2025-10-01,Viseu,Moimenta da Beira,1.679
+2025-10-01,Viseu,Mortágua,5.358
+2025-10-01,Viseu,Nelas,7.959
+2025-10-01,Viseu,Oliveira de Frades,4.04
+2025-10-01,Viseu,Penalva do Castelo,2.879
+2025-10-01,Viseu,Penedono,0.107
+2025-10-01,Viseu,Resende,3.841
+2025-10-01,Viseu,Santa Comba Dão,8.766
+2025-10-01,Viseu,Sernancelhe,3.612
+2025-10-01,Viseu,Sátão,2.654
+2025-10-01,Viseu,São João da Pesqueira,1.842
+2025-10-01,Viseu,São Pedro do Sul,7.376
+2025-10-01,Viseu,Tabuaço,0.914
+2025-10-01,Viseu,Tarouca,2.777
+2025-10-01,Viseu,Tondela,16.681
+2025-10-01,Viseu,Vila Nova de Paiva,1.132
+2025-10-01,Viseu,Viseu,126.464
+2025-10-01,Viseu,Vouzela,7.835
+2025-10-01,Évora,Alandroal,0.431
+2025-10-01,Évora,Arraiolos,1.091
+2025-10-01,Évora,Borba,4.196
+2025-10-01,Évora,Estremoz,31.48
+2025-10-01,Évora,Montemor-o-Novo,19.653
+2025-10-01,Évora,Mora,2.389
+2025-10-01,Évora,Mourão,2.14
+2025-10-01,Évora,Portel,0.783
+2025-10-01,Évora,Redondo,1.528
+2025-10-01,Évora,Reguengos de Monsaraz,8.257
+2025-10-01,Évora,Vendas Novas,34.615
+2025-10-01,Évora,Viana do Alentejo,2.225
+2025-10-01,Évora,Vila Viçosa,4.945
+2025-10-01,Évora,Évora,78.237
+2025-11-01,Aveiro,Albergaria-a-Velha,71.342
+2025-11-01,Aveiro,Anadia,22.285
+2025-11-01,Aveiro,Arouca,3.68
+2025-11-01,Aveiro,Aveiro,170.559
+2025-11-01,Aveiro,Castelo de Paiva,4.469
+2025-11-01,Aveiro,Espinho,28.405
+2025-11-01,Aveiro,Estarreja,133.676
+2025-11-01,Aveiro,Mealhada,34.286
+2025-11-01,Aveiro,Murtosa,3.38
+2025-11-01,Aveiro,Oliveira de Azeméis,22.778
+2025-11-01,Aveiro,Oliveira do Bairro,15.259
+2025-11-01,Aveiro,Ovar,70.669
+2025-11-01,Aveiro,Santa Maria da Feira,119.901
+2025-11-01,Aveiro,Sever do Vouga,3.929
+2025-11-01,Aveiro,São João da Madeira,55.439
+2025-11-01,Aveiro,Vagos,24.65
+2025-11-01,Aveiro,Vale de Cambra,12.217
+2025-11-01,Aveiro,Águeda,23.253
+2025-11-01,Aveiro,Ílhavo,43.511
+2025-11-01,Beja,Aljustrel,47.108
+2025-11-01,Beja,Almodôvar,95.997
+2025-11-01,Beja,Alvito,1.508
+2025-11-01,Beja,Barrancos,0.136
+2025-11-01,Beja,Beja,36.974
+2025-11-01,Beja,Castro Verde,6.604
+2025-11-01,Beja,Cuba,5.178
+2025-11-01,Beja,Ferreira do Alentejo,0.101
+2025-11-01,Beja,Moura,4.371
+2025-11-01,Beja,Mértola,2.603
+2025-11-01,Beja,Odemira,6.108
+2025-11-01,Beja,Ourique,5.504
+2025-11-01,Beja,Serpa,2.336
+2025-11-01,Beja,Vidigueira,3.456
+2025-11-01,Braga,Amares,3.314
+2025-11-01,Braga,Barcelos,88.481
+2025-11-01,Braga,Braga,349.296
+2025-11-01,Braga,Cabeceiras de Basto,8.676
+2025-11-01,Braga,Celorico de Basto,3.564
+2025-11-01,Braga,Esposende,44.898
+2025-11-01,Braga,Fafe,27.484
+2025-11-01,Braga,Guimarães,182.867
+2025-11-01,Braga,Póvoa de Lanhoso,4.153
+2025-11-01,Braga,Terras de Bouro,2.31
+2025-11-01,Braga,Vieira do Minho,3.91
+2025-11-01,Braga,Vila Nova de Famalicão,120.93
+2025-11-01,Braga,Vila Verde,22.251
+2025-11-01,Braga,Vizela,22.797
+2025-11-01,Bragança,Alfândega da Fé,1.56
+2025-11-01,Bragança,Bragança,37.309
+2025-11-01,Bragança,Carrazeda de Ansiães,0.271
+2025-11-01,Bragança,Freixo de Espada À Cinta,0.832
+2025-11-01,Bragança,Macedo de Cavaleiros,10.62
+2025-11-01,Bragança,Miranda do douro,4.842
+2025-11-01,Bragança,Mirandela,19.756
+2025-11-01,Bragança,Mogadouro,4.625
+2025-11-01,Bragança,Torre de Moncorvo,4.499
+2025-11-01,Bragança,Vila Flor,2.478
+2025-11-01,Bragança,Vimioso,1.212
+2025-11-01,Bragança,Vinhais,0.848
+2025-11-01,Castelo Branco,Belmonte,1.817
+2025-11-01,Castelo Branco,Castelo Branco,101.1
+2025-11-01,Castelo Branco,Covilhã,62.355
+2025-11-01,Castelo Branco,Fundão,37.71
+2025-11-01,Castelo Branco,Idanha-a-Nova,4.146
+2025-11-01,Castelo Branco,Oleiros,0.882
+2025-11-01,Castelo Branco,Penamacor,0.677
+2025-11-01,Castelo Branco,Proença-a-Nova,2.629
+2025-11-01,Castelo Branco,Sertã,6.816
+2025-11-01,Castelo Branco,Vila Velha de Ródão,18.438
+2025-11-01,Castelo Branco,Vila de Rei,0.658
+2025-11-01,Coimbra,Arganil,3.401
+2025-11-01,Coimbra,Cantanhede,137.864
+2025-11-01,Coimbra,Coimbra,274.899
+2025-11-01,Coimbra,Condeixa-a-Nova,33.576
+2025-11-01,Coimbra,Figueira da Foz,63.878
+2025-11-01,Coimbra,Góis,0.434
+2025-11-01,Coimbra,Lousã,14.041
+2025-11-01,Coimbra,Mira,7.124
+2025-11-01,Coimbra,Miranda do Corvo,4.781
+2025-11-01,Coimbra,Montemor-o-Velho,13.533
+2025-11-01,Coimbra,Oliveira do Hospital,15.319
+2025-11-01,Coimbra,Pampilhosa da Serra,1.216
+2025-11-01,Coimbra,Penacova,11.145
+2025-11-01,Coimbra,Penela,2.538
+2025-11-01,Coimbra,Soure,5.3
+2025-11-01,Coimbra,Tábua,4.436
+2025-11-01,Coimbra,Vila Nova de Poiares,1.889
+2025-11-01,Faro,Albufeira,105.586
+2025-11-01,Faro,Alcoutim,1.067
+2025-11-01,Faro,Aljezur,2.37
+2025-11-01,Faro,Castro Marim,9.276
+2025-11-01,Faro,Faro,132.614
+2025-11-01,Faro,Lagoa,43.906
+2025-11-01,Faro,Lagos,59.217
+2025-11-01,Faro,Loulé,179.828
+2025-11-01,Faro,Monchique,1.16
+2025-11-01,Faro,Olhão,41.635
+2025-11-01,Faro,Portimão,79.299
+2025-11-01,Faro,Silves,38.093
+2025-11-01,Faro,São Brás de Alportel,9.718
+2025-11-01,Faro,Tavira,19.742
+2025-11-01,Faro,Vila Real de Santo António,13.709
+2025-11-01,Faro,Vila do Bispo,7.48
+2025-11-01,Guarda,Aguiar da Beira,1.564
+2025-11-01,Guarda,Almeida,8.8
+2025-11-01,Guarda,Celorico da Beira,11.095
+2025-11-01,Guarda,Figueira de Castelo Rodrigo,0.93
+2025-11-01,Guarda,Fornos de Algodres,0.416
+2025-11-01,Guarda,Gouveia,2.873
+2025-11-01,Guarda,Guarda,50.137
+2025-11-01,Guarda,Manteigas,3.052
+2025-11-01,Guarda,Mêda,1.089
+2025-11-01,Guarda,Pinhel,0.5
+2025-11-01,Guarda,Sabugal,4.395
+2025-11-01,Guarda,Seia,11.273
+2025-11-01,Guarda,Trancoso,3.781
+2025-11-01,Guarda,Vila Nova de Foz Côa,5.108
+2025-11-01,Leiria,Alcobaça,56.777
+2025-11-01,Leiria,Alvaiázere,10.016
+2025-11-01,Leiria,Ansião,6.754
+2025-11-01,Leiria,Batalha,12.484
+2025-11-01,Leiria,Bombarral,7.335
+2025-11-01,Leiria,Caldas da Rainha,71.841
+2025-11-01,Leiria,Castanheira de Pêra,1.183
+2025-11-01,Leiria,Figueiró dos Vinhos,2.514
+2025-11-01,Leiria,Leiria,416.849
+2025-11-01,Leiria,Marinha Grande,34.125
+2025-11-01,Leiria,Nazaré,59.883
+2025-11-01,Leiria,Pedrógão Grande,5.138
+2025-11-01,Leiria,Peniche,28.293
+2025-11-01,Leiria,Pombal,126.094
+2025-11-01,Leiria,Porto de Mós,19.732
+2025-11-01,Leiria,Óbidos,74.161
+2025-11-01,Lisboa,Alenquer,47.845
+2025-11-01,Lisboa,Amadora,365.732
+2025-11-01,Lisboa,Arruda dos Vinhos,35.727
+2025-11-01,Lisboa,Azambuja,118.077
+2025-11-01,Lisboa,Cadaval,2.973
+2025-11-01,Lisboa,Cascais,776.677
+2025-11-01,Lisboa,Lisboa,2203.334
+2025-11-01,Lisboa,Loures,659.015
+2025-11-01,Lisboa,Lourinhã,20.899
+2025-11-01,Lisboa,Mafra,171.567
+2025-11-01,Lisboa,Odivelas,351.771
+2025-11-01,Lisboa,Oeiras,765.283
+2025-11-01,Lisboa,Sintra,763.491
+2025-11-01,Lisboa,Sobral de Monte Agraço,9.752
+2025-11-01,Lisboa,Torres Vedras,142.593
+2025-11-01,Lisboa,Vila Franca de Xira,314.114
+2025-11-01,Portalegre,Alter do Chão,5.395
+2025-11-01,Portalegre,Arronches,1.014
+2025-11-01,Portalegre,Avis,0.838
+2025-11-01,Portalegre,Campo Maior,4.009
+2025-11-01,Portalegre,Castelo de Vide,2.48
+2025-11-01,Portalegre,Crato,1.621
+2025-11-01,Portalegre,Elvas,21.336
+2025-11-01,Portalegre,Fronteira,0.207
+2025-11-01,Portalegre,Gavião,0.831
+2025-11-01,Portalegre,Marvão,0.631
+2025-11-01,Portalegre,Monforte,0.174
+2025-11-01,Portalegre,Nisa,1.525
+2025-11-01,Portalegre,Ponte de Sor,12.812
+2025-11-01,Portalegre,Portalegre,23.559
+2025-11-01,Portalegre,Sousel,1.673
+2025-11-01,Porto,Amarante,25.763
+2025-11-01,Porto,Baião,4.399
+2025-11-01,Porto,Felgueiras,38.686
+2025-11-01,Porto,Gondomar,183.024
+2025-11-01,Porto,Lousada,25.096
+2025-11-01,Porto,Maia,223.812
+2025-11-01,Porto,Marco de Canaveses,23.059
+2025-11-01,Porto,Matosinhos,484.512
+2025-11-01,Porto,Paredes,62.185
+2025-11-01,Porto,Paços de Ferreira,52.164
+2025-11-01,Porto,Penafiel,82.236
+2025-11-01,Porto,Porto,690.944
+2025-11-01,Porto,Póvoa de Varzim,67.691
+2025-11-01,Porto,Santo Tirso,53.336
+2025-11-01,Porto,Trofa,38.925
+2025-11-01,Porto,Valongo,168.854
+2025-11-01,Porto,Vila Nova de Gaia,607.244
+2025-11-01,Porto,Vila do Conde,141.568
+2025-11-01,Santarém,Abrantes,58.36
+2025-11-01,Santarém,Alcanena,11.892
+2025-11-01,Santarém,Almeirim,16.463
+2025-11-01,Santarém,Alpiarça,2.744
+2025-11-01,Santarém,Benavente,53.064
+2025-11-01,Santarém,Cartaxo,11.532
+2025-11-01,Santarém,Chamusca,5.512
+2025-11-01,Santarém,Constância,1.837
+2025-11-01,Santarém,Coruche,13.649
+2025-11-01,Santarém,Entroncamento,16.271
+2025-11-01,Santarém,Ferreira do Zêzere,7.252
+2025-11-01,Santarém,Golegã,9.425
+2025-11-01,Santarém,Mação,0.361
+2025-11-01,Santarém,Ourém,58.554
+2025-11-01,Santarém,Rio Maior,32.948
+2025-11-01,Santarém,Salvaterra de Magos,14.954
+2025-11-01,Santarém,Santarém,218.88
+2025-11-01,Santarém,Sardoal,0.414
+2025-11-01,Santarém,Tomar,39.435
+2025-11-01,Santarém,Torres Novas,70.125
+2025-11-01,Santarém,Vila Nova da Barquinha,4.363
+2025-11-01,Setúbal,Alcochete,110.416
+2025-11-01,Setúbal,Alcácer do Sal,39.873
+2025-11-01,Setúbal,Almada,298.021
+2025-11-01,Setúbal,Barreiro,208.022
+2025-11-01,Setúbal,Grândola,123.451
+2025-11-01,Setúbal,Moita,49.077
+2025-11-01,Setúbal,Montijo,227.112
+2025-11-01,Setúbal,Palmela,118.014
+2025-11-01,Setúbal,Santiago do Cacém,20.19
+2025-11-01,Setúbal,Seixal,355.609
+2025-11-01,Setúbal,Sesimbra,29.5
+2025-11-01,Setúbal,Setúbal,218.268
+2025-11-01,Setúbal,Sines,28.292
+2025-11-01,Viana do Castelo,Arcos de Valdevez,13.168
+2025-11-01,Viana do Castelo,Caminha,22.081
+2025-11-01,Viana do Castelo,Melgaço,6.872
+2025-11-01,Viana do Castelo,Monção,10.87
+2025-11-01,Viana do Castelo,Paredes de Coura,1.52
+2025-11-01,Viana do Castelo,Ponte da Barca,0.801
+2025-11-01,Viana do Castelo,Ponte de Lima,24.933
+2025-11-01,Viana do Castelo,Valença,14.519
+2025-11-01,Viana do Castelo,Viana do Castelo,84.24
+2025-11-01,Viana do Castelo,Vila Nova de Cerveira,8.801
+2025-11-01,Vila Real,Alijó,1.262
+2025-11-01,Vila Real,Boticas,1.501
+2025-11-01,Vila Real,Chaves,38.238
+2025-11-01,Vila Real,Mesão Frio,0.194
+2025-11-01,Vila Real,Mondim de Basto,2.363
+2025-11-01,Vila Real,Montalegre,2.213
+2025-11-01,Vila Real,Murça,2.316
+2025-11-01,Vila Real,Peso da Régua,12.973
+2025-11-01,Vila Real,Ribeira de Pena,1.777
+2025-11-01,Vila Real,Sabrosa,1.493
+2025-11-01,Vila Real,Santa Marta de Penaguião,1.135
+2025-11-01,Vila Real,Valpaços,3.617
+2025-11-01,Vila Real,Vila Pouca de Aguiar,3.936
+2025-11-01,Vila Real,Vila Real,83.23
+2025-11-01,Viseu,Armamar,1.064
+2025-11-01,Viseu,Carregal do Sal,3.362
+2025-11-01,Viseu,Castro daire,5.226
+2025-11-01,Viseu,Cinfães,1.113
+2025-11-01,Viseu,Lamego,26.612
+2025-11-01,Viseu,Mangualde,13.95
+2025-11-01,Viseu,Moimenta da Beira,1.29
+2025-11-01,Viseu,Mortágua,5.477
+2025-11-01,Viseu,Nelas,8.568
+2025-11-01,Viseu,Oliveira de Frades,5.706
+2025-11-01,Viseu,Penalva do Castelo,2.708
+2025-11-01,Viseu,Penedono,0.304
+2025-11-01,Viseu,Resende,3.714
+2025-11-01,Viseu,Santa Comba Dão,10.79
+2025-11-01,Viseu,Sernancelhe,7.185
+2025-11-01,Viseu,Sátão,2.713
+2025-11-01,Viseu,São João da Pesqueira,1.827
+2025-11-01,Viseu,São Pedro do Sul,8.399
+2025-11-01,Viseu,Tabuaço,0.817
+2025-11-01,Viseu,Tarouca,1.86
+2025-11-01,Viseu,Tondela,16.795
+2025-11-01,Viseu,Vila Nova de Paiva,1.656
+2025-11-01,Viseu,Viseu,144.121
+2025-11-01,Viseu,Vouzela,7.989
+2025-11-01,Évora,Alandroal,0.441
+2025-11-01,Évora,Arraiolos,2.825
+2025-11-01,Évora,Borba,4.16
+2025-11-01,Évora,Estremoz,35.974
+2025-11-01,Évora,Montemor-o-Novo,20.32
+2025-11-01,Évora,Mora,2.403
+2025-11-01,Évora,Mourão,2.86
+2025-11-01,Évora,Portel,1.264
+2025-11-01,Évora,Redondo,1.648
+2025-11-01,Évora,Reguengos de Monsaraz,7.648
+2025-11-01,Évora,Vendas Novas,35.268
+2025-11-01,Évora,Viana do Alentejo,2.555
+2025-11-01,Évora,Vila Viçosa,4.997
+2025-11-01,Évora,Évora,78.74
+2025-12-01,Aveiro,Albergaria-a-Velha,56.266
+2025-12-01,Aveiro,Anadia,28.992
+2025-12-01,Aveiro,Arouca,5.712
+2025-12-01,Aveiro,Aveiro,198.558
+2025-12-01,Aveiro,Castelo de Paiva,6.67
+2025-12-01,Aveiro,Espinho,30.276
+2025-12-01,Aveiro,Estarreja,157.852
+2025-12-01,Aveiro,Mealhada,41.826
+2025-12-01,Aveiro,Murtosa,3.029
+2025-12-01,Aveiro,Oliveira de Azeméis,29.219
+2025-12-01,Aveiro,Oliveira do Bairro,17.731
+2025-12-01,Aveiro,Ovar,83.617
+2025-12-01,Aveiro,Santa Maria da Feira,145.103
+2025-12-01,Aveiro,Sever do Vouga,4.775
+2025-12-01,Aveiro,São João da Madeira,64.893
+2025-12-01,Aveiro,Vagos,27.858
+2025-12-01,Aveiro,Vale de Cambra,16.481
+2025-12-01,Aveiro,Águeda,30.611
+2025-12-01,Aveiro,Ílhavo,49.541
+2025-12-01,Beja,Aljustrel,43.56
+2025-12-01,Beja,Almodôvar,86.604
+2025-12-01,Beja,Alvito,1.259
+2025-12-01,Beja,Barrancos,0.698
+2025-12-01,Beja,Beja,44.059
+2025-12-01,Beja,Castro Verde,7.846
+2025-12-01,Beja,Cuba,4.535
+2025-12-01,Beja,Ferreira do Alentejo,0.026
+2025-12-01,Beja,Moura,2.831
+2025-12-01,Beja,Mértola,2.933
+2025-12-01,Beja,Odemira,7.595
+2025-12-01,Beja,Ourique,6.895
+2025-12-01,Beja,Serpa,1.861
+2025-12-01,Beja,Vidigueira,4.118
+2025-12-01,Braga,Amares,3.76
+2025-12-01,Braga,Barcelos,93.028
+2025-12-01,Braga,Braga,399.778
+2025-12-01,Braga,Cabeceiras de Basto,11.38
+2025-12-01,Braga,Celorico de Basto,4.538
+2025-12-01,Braga,Esposende,53.243
+2025-12-01,Braga,Fafe,34.717
+2025-12-01,Braga,Guimarães,212.891
+2025-12-01,Braga,Póvoa de Lanhoso,5.57
+2025-12-01,Braga,Terras de Bouro,3.4
+2025-12-01,Braga,Vieira do Minho,5.992
+2025-12-01,Braga,Vila Nova de Famalicão,134.553
+2025-12-01,Braga,Vila Verde,27.122
+2025-12-01,Braga,Vizela,24.008
+2025-12-01,Bragança,Alfândega da Fé,1.664
+2025-12-01,Bragança,Bragança,44.883
+2025-12-01,Bragança,Carrazeda de Ansiães,0.852
+2025-12-01,Bragança,Freixo de Espada À Cinta,1.056
+2025-12-01,Bragança,Macedo de Cavaleiros,13.296
+2025-12-01,Bragança,Miranda do douro,8.5
+2025-12-01,Bragança,Mirandela,24.058
+2025-12-01,Bragança,Mogadouro,5.843
+2025-12-01,Bragança,Torre de Moncorvo,6.318
+2025-12-01,Bragança,Vila Flor,2.344
+2025-12-01,Bragança,Vimioso,1.333
+2025-12-01,Bragança,Vinhais,1.055
+2025-12-01,Castelo Branco,Belmonte,2.339
+2025-12-01,Castelo Branco,Castelo Branco,114.072
+2025-12-01,Castelo Branco,Covilhã,92.84
+2025-12-01,Castelo Branco,Fundão,46.099
+2025-12-01,Castelo Branco,Idanha-a-Nova,5.393
+2025-12-01,Castelo Branco,Oleiros,1.547
+2025-12-01,Castelo Branco,Penamacor,1.563
+2025-12-01,Castelo Branco,Proença-a-Nova,3.273
+2025-12-01,Castelo Branco,Sertã,6.334
+2025-12-01,Castelo Branco,Vila Velha de Ródão,27.854
+2025-12-01,Castelo Branco,Vila de Rei,0.501
+2025-12-01,Coimbra,Arganil,4.563
+2025-12-01,Coimbra,Cantanhede,164.971
+2025-12-01,Coimbra,Coimbra,288.168
+2025-12-01,Coimbra,Condeixa-a-Nova,42.708
+2025-12-01,Coimbra,Figueira da Foz,73.994
+2025-12-01,Coimbra,Góis,0.908
+2025-12-01,Coimbra,Lousã,14.636
+2025-12-01,Coimbra,Mira,8.006
+2025-12-01,Coimbra,Miranda do Corvo,5.819
+2025-12-01,Coimbra,Montemor-o-Velho,17.719
+2025-12-01,Coimbra,Oliveira do Hospital,19.234
+2025-12-01,Coimbra,Pampilhosa da Serra,1.853
+2025-12-01,Coimbra,Penacova,14.731
+2025-12-01,Coimbra,Penela,6.891
+2025-12-01,Coimbra,Soure,5.918
+2025-12-01,Coimbra,Tábua,6.672
+2025-12-01,Coimbra,Vila Nova de Poiares,1.93
+2025-12-01,Faro,Albufeira,104.544
+2025-12-01,Faro,Alcoutim,1.272
+2025-12-01,Faro,Aljezur,2.611
+2025-12-01,Faro,Castro Marim,12.013
+2025-12-01,Faro,Faro,135.576
+2025-12-01,Faro,Lagoa,48.779
+2025-12-01,Faro,Lagos,53.863
+2025-12-01,Faro,Loulé,184.055
+2025-12-01,Faro,Monchique,1.266
+2025-12-01,Faro,Olhão,42.564
+2025-12-01,Faro,Portimão,75.977
+2025-12-01,Faro,Silves,39.273
+2025-12-01,Faro,São Brás de Alportel,7.734
+2025-12-01,Faro,Tavira,24.352
+2025-12-01,Faro,Vila Real de Santo António,17.991
+2025-12-01,Faro,Vila do Bispo,7.801
+2025-12-01,Guarda,Aguiar da Beira,1.828
+2025-12-01,Guarda,Almeida,13.349
+2025-12-01,Guarda,Celorico da Beira,12.82
+2025-12-01,Guarda,Figueira de Castelo Rodrigo,1.167
+2025-12-01,Guarda,Fornos de Algodres,0.517
+2025-12-01,Guarda,Gouveia,4.384
+2025-12-01,Guarda,Guarda,64.71
+2025-12-01,Guarda,Manteigas,6.009
+2025-12-01,Guarda,Mêda,1.005
+2025-12-01,Guarda,Pinhel,0.897
+2025-12-01,Guarda,Sabugal,5.373
+2025-12-01,Guarda,Seia,28.836
+2025-12-01,Guarda,Trancoso,5.676
+2025-12-01,Guarda,Vila Nova de Foz Côa,6.708
+2025-12-01,Leiria,Alcobaça,68.179
+2025-12-01,Leiria,Alvaiázere,10.268
+2025-12-01,Leiria,Ansião,9.826
+2025-12-01,Leiria,Batalha,11.554
+2025-12-01,Leiria,Bombarral,14.442
+2025-12-01,Leiria,Caldas da Rainha,79.257
+2025-12-01,Leiria,Castanheira de Pêra,1.493
+2025-12-01,Leiria,Figueiró dos Vinhos,2.979
+2025-12-01,Leiria,Leiria,391.412
+2025-12-01,Leiria,Marinha Grande,40.466
+2025-12-01,Leiria,Nazaré,71.623
+2025-12-01,Leiria,Pedrógão Grande,7.031
+2025-12-01,Leiria,Peniche,29.377
+2025-12-01,Leiria,Pombal,143.752
+2025-12-01,Leiria,Porto de Mós,24.701
+2025-12-01,Leiria,Óbidos,83.82
+2025-12-01,Lisboa,Alenquer,58.676
+2025-12-01,Lisboa,Amadora,377.66
+2025-12-01,Lisboa,Arruda dos Vinhos,38.229
+2025-12-01,Lisboa,Azambuja,124.172
+2025-12-01,Lisboa,Cadaval,4.463
+2025-12-01,Lisboa,Cascais,859.84
+2025-12-01,Lisboa,Lisboa,2287.09
+2025-12-01,Lisboa,Loures,715.546
+2025-12-01,Lisboa,Lourinhã,28.36
+2025-12-01,Lisboa,Mafra,182.277
+2025-12-01,Lisboa,Odivelas,385.85
+2025-12-01,Lisboa,Oeiras,800.788
+2025-12-01,Lisboa,Sintra,869.325
+2025-12-01,Lisboa,Sobral de Monte Agraço,10.403
+2025-12-01,Lisboa,Torres Vedras,162.39
+2025-12-01,Lisboa,Vila Franca de Xira,355.836
+2025-12-01,Portalegre,Alter do Chão,5.729
+2025-12-01,Portalegre,Arronches,0.76
+2025-12-01,Portalegre,Avis,1.017
+2025-12-01,Portalegre,Campo Maior,5.155
+2025-12-01,Portalegre,Castelo de Vide,3.222
+2025-12-01,Portalegre,Crato,2.358
+2025-12-01,Portalegre,Elvas,28.405
+2025-12-01,Portalegre,Fronteira,1.084
+2025-12-01,Portalegre,Gavião,0.935
+2025-12-01,Portalegre,Marvão,0.291
+2025-12-01,Portalegre,Monforte,0.421
+2025-12-01,Portalegre,Nisa,1.497
+2025-12-01,Portalegre,Ponte de Sor,13.79
+2025-12-01,Portalegre,Portalegre,25.508
+2025-12-01,Portalegre,Sousel,1.933
+2025-12-01,Porto,Amarante,32.487
+2025-12-01,Porto,Baião,5.487
+2025-12-01,Porto,Felgueiras,47.626
+2025-12-01,Porto,Gondomar,205.353
+2025-12-01,Porto,Lousada,29.468
+2025-12-01,Porto,Maia,266.489
+2025-12-01,Porto,Marco de Canaveses,27.0
+2025-12-01,Porto,Matosinhos,547.01
+2025-12-01,Porto,Paredes,74.761
+2025-12-01,Porto,Paços de Ferreira,57.316
+2025-12-01,Porto,Penafiel,96.545
+2025-12-01,Porto,Porto,757.656
+2025-12-01,Porto,Póvoa de Varzim,89.674
+2025-12-01,Porto,Santo Tirso,58.707
+2025-12-01,Porto,Trofa,48.889
+2025-12-01,Porto,Valongo,178.554
+2025-12-01,Porto,Vila Nova de Gaia,677.711
+2025-12-01,Porto,Vila do Conde,161.314
+2025-12-01,Santarém,Abrantes,75.038
+2025-12-01,Santarém,Alcanena,13.336
+2025-12-01,Santarém,Almeirim,17.383
+2025-12-01,Santarém,Alpiarça,3.171
+2025-12-01,Santarém,Benavente,57.593
+2025-12-01,Santarém,Cartaxo,17.919
+2025-12-01,Santarém,Chamusca,3.594
+2025-12-01,Santarém,Constância,2.623
+2025-12-01,Santarém,Coruche,15.491
+2025-12-01,Santarém,Entroncamento,21.299
+2025-12-01,Santarém,Ferreira do Zêzere,7.409
+2025-12-01,Santarém,Golegã,5.098
+2025-12-01,Santarém,Mação,0.93
+2025-12-01,Santarém,Ourém,59.243
+2025-12-01,Santarém,Rio Maior,34.527
+2025-12-01,Santarém,Salvaterra de Magos,20.248
+2025-12-01,Santarém,Santarém,234.572
+2025-12-01,Santarém,Sardoal,0.102
+2025-12-01,Santarém,Tomar,44.449
+2025-12-01,Santarém,Torres Novas,82.773
+2025-12-01,Santarém,Vila Nova da Barquinha,3.504
+2025-12-01,Setúbal,Alcochete,131.631
+2025-12-01,Setúbal,Alcácer do Sal,43.009
+2025-12-01,Setúbal,Almada,340.706
+2025-12-01,Setúbal,Barreiro,251.119
+2025-12-01,Setúbal,Grândola,133.667
+2025-12-01,Setúbal,Moita,57.886
+2025-12-01,Setúbal,Montijo,236.498
+2025-12-01,Setúbal,Palmela,123.24
+2025-12-01,Setúbal,Santiago do Cacém,23.739
+2025-12-01,Setúbal,Seixal,402.793
+2025-12-01,Setúbal,Sesimbra,31.257
+2025-12-01,Setúbal,Setúbal,230.272
+2025-12-01,Setúbal,Sines,32.047
+2025-12-01,Viana do Castelo,Arcos de Valdevez,19.059
+2025-12-01,Viana do Castelo,Caminha,22.835
+2025-12-01,Viana do Castelo,Melgaço,7.886
+2025-12-01,Viana do Castelo,Monção,14.414
+2025-12-01,Viana do Castelo,Paredes de Coura,1.447
+2025-12-01,Viana do Castelo,Ponte da Barca,1.903
+2025-12-01,Viana do Castelo,Ponte de Lima,32.436
+2025-12-01,Viana do Castelo,Valença,21.274
+2025-12-01,Viana do Castelo,Viana do Castelo,101.796
+2025-12-01,Viana do Castelo,Vila Nova de Cerveira,11.891
+2025-12-01,Vila Real,Alijó,1.592
+2025-12-01,Vila Real,Boticas,1.612
+2025-12-01,Vila Real,Chaves,46.275
+2025-12-01,Vila Real,Mesão Frio,0.285
+2025-12-01,Vila Real,Mondim de Basto,2.968
+2025-12-01,Vila Real,Montalegre,2.821
+2025-12-01,Vila Real,Murça,2.974
+2025-12-01,Vila Real,Peso da Régua,16.061
+2025-12-01,Vila Real,Ribeira de Pena,2.235
+2025-12-01,Vila Real,Sabrosa,1.814
+2025-12-01,Vila Real,Santa Marta de Penaguião,1.527
+2025-12-01,Vila Real,Valpaços,4.265
+2025-12-01,Vila Real,Vila Pouca de Aguiar,5.542
+2025-12-01,Vila Real,Vila Real,94.612
+2025-12-01,Viseu,Armamar,1.137
+2025-12-01,Viseu,Carregal do Sal,3.224
+2025-12-01,Viseu,Castro daire,5.75
+2025-12-01,Viseu,Cinfães,1.874
+2025-12-01,Viseu,Lamego,32.003
+2025-12-01,Viseu,Mangualde,17.996
+2025-12-01,Viseu,Moimenta da Beira,2.483
+2025-12-01,Viseu,Mortágua,6.626
+2025-12-01,Viseu,Nelas,11.14
+2025-12-01,Viseu,Oliveira de Frades,7.305
+2025-12-01,Viseu,Penalva do Castelo,2.557
+2025-12-01,Viseu,Penedono,0.368
+2025-12-01,Viseu,Resende,4.631
+2025-12-01,Viseu,Santa Comba Dão,13.514
+2025-12-01,Viseu,Sernancelhe,7.244
+2025-12-01,Viseu,Sátão,2.879
+2025-12-01,Viseu,São João da Pesqueira,1.827
+2025-12-01,Viseu,São Pedro do Sul,10.483
+2025-12-01,Viseu,Tabuaço,1.336
+2025-12-01,Viseu,Tarouca,2.604
+2025-12-01,Viseu,Tondela,19.5
+2025-12-01,Viseu,Vila Nova de Paiva,2.554
+2025-12-01,Viseu,Viseu,186.943
+2025-12-01,Viseu,Vouzela,7.96
+2025-12-01,Évora,Alandroal,0.683
+2025-12-01,Évora,Arraiolos,3.65
+2025-12-01,Évora,Borba,4.109
+2025-12-01,Évora,Estremoz,40.803
+2025-12-01,Évora,Montemor-o-Novo,26.293
+2025-12-01,Évora,Mora,2.294
+2025-12-01,Évora,Mourão,3.3
+2025-12-01,Évora,Portel,1.136
+2025-12-01,Évora,Redondo,1.919
+2025-12-01,Évora,Reguengos de Monsaraz,10.278
+2025-12-01,Évora,Vendas Novas,40.808
+2025-12-01,Évora,Viana do Alentejo,2.885
+2025-12-01,Évora,Vila Viçosa,5.545
+2025-12-01,Évora,Évora,86.838
+2026-01-01,Aveiro,Albergaria-a-Velha,41.134
+2026-01-01,Aveiro,Anadia,22.058
+2026-01-01,Aveiro,Arouca,5.629
+2026-01-01,Aveiro,Aveiro,185.152
+2026-01-01,Aveiro,Castelo de Paiva,4.249
+2026-01-01,Aveiro,Espinho,26.271
+2026-01-01,Aveiro,Estarreja,137.901
+2026-01-01,Aveiro,Mealhada,32.488
+2026-01-01,Aveiro,Murtosa,3.493
+2026-01-01,Aveiro,Oliveira de Azeméis,26.315
+2026-01-01,Aveiro,Oliveira do Bairro,19.647
+2026-01-01,Aveiro,Ovar,77.339
+2026-01-01,Aveiro,Santa Maria da Feira,130.083
+2026-01-01,Aveiro,Sever do Vouga,5.392
+2026-01-01,Aveiro,São João da Madeira,54.162
+2026-01-01,Aveiro,Vagos,23.513
+2026-01-01,Aveiro,Vale de Cambra,13.843
+2026-01-01,Aveiro,Águeda,28.616
+2026-01-01,Aveiro,Ílhavo,45.52
+2026-01-01,Beja,Aljustrel,55.857
+2026-01-01,Beja,Almodôvar,63.549
+2026-01-01,Beja,Alvito,0.893
+2026-01-01,Beja,Barrancos,0.544
+2026-01-01,Beja,Beja,38.126
+2026-01-01,Beja,Castro Verde,6.654
+2026-01-01,Beja,Cuba,4.483
+2026-01-01,Beja,Ferreira do Alentejo,0.095
+2026-01-01,Beja,Moura,2.727
+2026-01-01,Beja,Mértola,1.928
+2026-01-01,Beja,Odemira,5.952
+2026-01-01,Beja,Ourique,5.74
+2026-01-01,Beja,Serpa,1.75
+2026-01-01,Beja,Vidigueira,3.34
+2026-01-01,Braga,Amares,3.655
+2026-01-01,Braga,Barcelos,75.723
+2026-01-01,Braga,Braga,373.915
+2026-01-01,Braga,Cabeceiras de Basto,9.276
+2026-01-01,Braga,Celorico de Basto,3.378
+2026-01-01,Braga,Esposende,46.585
+2026-01-01,Braga,Fafe,33.091
+2026-01-01,Braga,Guimarães,209.543
+2026-01-01,Braga,Póvoa de Lanhoso,5.044
+2026-01-01,Braga,Terras de Bouro,2.996
+2026-01-01,Braga,Vieira do Minho,4.46
+2026-01-01,Braga,Vila Nova de Famalicão,122.089
+2026-01-01,Braga,Vila Verde,23.085
+2026-01-01,Braga,Vizela,24.43
+2026-01-01,Bragança,Alfândega da Fé,1.652
+2026-01-01,Bragança,Bragança,34.477
+2026-01-01,Bragança,Carrazeda de Ansiães,0.647
+2026-01-01,Bragança,Freixo de Espada À Cinta,0.71
+2026-01-01,Bragança,Macedo de Cavaleiros,11.606
+2026-01-01,Bragança,Miranda do douro,5.088
+2026-01-01,Bragança,Mirandela,18.909
+2026-01-01,Bragança,Mogadouro,4.332
+2026-01-01,Bragança,Torre de Moncorvo,3.643
+2026-01-01,Bragança,Vila Flor,2.351
+2026-01-01,Bragança,Vimioso,0.583
+2026-01-01,Bragança,Vinhais,0.942
+2026-01-01,Castelo Branco,Belmonte,1.9
+2026-01-01,Castelo Branco,Castelo Branco,84.878
+2026-01-01,Castelo Branco,Covilhã,75.199
+2026-01-01,Castelo Branco,Fundão,42.495
+2026-01-01,Castelo Branco,Idanha-a-Nova,3.499
+2026-01-01,Castelo Branco,Oleiros,0.573
+2026-01-01,Castelo Branco,Penamacor,0.554
+2026-01-01,Castelo Branco,Proença-a-Nova,2.519
+2026-01-01,Castelo Branco,Sertã,5.474
+2026-01-01,Castelo Branco,Vila Velha de Ródão,20.119
+2026-01-01,Castelo Branco,Vila de Rei,0.323
+2026-01-01,Coimbra,Arganil,4.021
+2026-01-01,Coimbra,Cantanhede,153.781
+2026-01-01,Coimbra,Coimbra,302.123
+2026-01-01,Coimbra,Condeixa-a-Nova,32.652
+2026-01-01,Coimbra,Figueira da Foz,69.802
+2026-01-01,Coimbra,Góis,0.539
+2026-01-01,Coimbra,Lousã,13.698
+2026-01-01,Coimbra,Mira,6.402
+2026-01-01,Coimbra,Miranda do Corvo,5.216
+2026-01-01,Coimbra,Montemor-o-Velho,15.19
+2026-01-01,Coimbra,Oliveira do Hospital,17.185
+2026-01-01,Coimbra,Pampilhosa da Serra,1.147
+2026-01-01,Coimbra,Penacova,11.938
+2026-01-01,Coimbra,Penela,5.615
+2026-01-01,Coimbra,Soure,5.532
+2026-01-01,Coimbra,Tábua,5.368
+2026-01-01,Coimbra,Vila Nova de Poiares,1.469
+2026-01-01,Faro,Albufeira,98.47
+2026-01-01,Faro,Alcoutim,1.214
+2026-01-01,Faro,Aljezur,2.19
+2026-01-01,Faro,Castro Marim,9.955
+2026-01-01,Faro,Faro,128.515
+2026-01-01,Faro,Lagoa,49.601
+2026-01-01,Faro,Lagos,53.9
+2026-01-01,Faro,Loulé,180.516
+2026-01-01,Faro,Monchique,0.728
+2026-01-01,Faro,Olhão,40.255
+2026-01-01,Faro,Portimão,76.04
+2026-01-01,Faro,Silves,33.251
+2026-01-01,Faro,São Brás de Alportel,9.176
+2026-01-01,Faro,Tavira,24.805
+2026-01-01,Faro,Vila Real de Santo António,14.852
+2026-01-01,Faro,Vila do Bispo,7.561
+2026-01-01,Guarda,Aguiar da Beira,1.529
+2026-01-01,Guarda,Almeida,8.619
+2026-01-01,Guarda,Celorico da Beira,8.904
+2026-01-01,Guarda,Figueira de Castelo Rodrigo,1.411
+2026-01-01,Guarda,Fornos de Algodres,0.43
+2026-01-01,Guarda,Gouveia,2.769
+2026-01-01,Guarda,Guarda,49.051
+2026-01-01,Guarda,Manteigas,6.05
+2026-01-01,Guarda,Mêda,0.515
+2026-01-01,Guarda,Pinhel,0.291
+2026-01-01,Guarda,Sabugal,3.874
+2026-01-01,Guarda,Seia,23.229
+2026-01-01,Guarda,Trancoso,4.405
+2026-01-01,Guarda,Vila Nova de Foz Côa,4.811
+2026-01-01,Leiria,Alcobaça,64.052
+2026-01-01,Leiria,Alvaiázere,6.309
+2026-01-01,Leiria,Ansião,9.331
+2026-01-01,Leiria,Batalha,9.334
+2026-01-01,Leiria,Bombarral,13.134
+2026-01-01,Leiria,Caldas da Rainha,88.94
+2026-01-01,Leiria,Castanheira de Pêra,1.287
+2026-01-01,Leiria,Figueiró dos Vinhos,3.36
+2026-01-01,Leiria,Leiria,315.746
+2026-01-01,Leiria,Marinha Grande,34.005
+2026-01-01,Leiria,Nazaré,60.928
+2026-01-01,Leiria,Pedrógão Grande,4.647
+2026-01-01,Leiria,Peniche,29.258
+2026-01-01,Leiria,Pombal,116.415
+2026-01-01,Leiria,Porto de Mós,19.338
+2026-01-01,Leiria,Óbidos,61.128
+2026-01-01,Lisboa,Alenquer,51.651
+2026-01-01,Lisboa,Amadora,373.423
+2026-01-01,Lisboa,Arruda dos Vinhos,38.217
+2026-01-01,Lisboa,Azambuja,124.333
+2026-01-01,Lisboa,Cadaval,3.484
+2026-01-01,Lisboa,Cascais,856.26
+2026-01-01,Lisboa,Lisboa,2280.812
+2026-01-01,Lisboa,Loures,655.291
+2026-01-01,Lisboa,Lourinhã,27.347
+2026-01-01,Lisboa,Mafra,163.044
+2026-01-01,Lisboa,Odivelas,371.713
+2026-01-01,Lisboa,Oeiras,869.322
+2026-01-01,Lisboa,Sintra,817.406
+2026-01-01,Lisboa,Sobral de Monte Agraço,9.818
+2026-01-01,Lisboa,Torres Vedras,161.312
+2026-01-01,Lisboa,Vila Franca de Xira,358.963
+2026-01-01,Portalegre,Alter do Chão,3.918
+2026-01-01,Portalegre,Arronches,0.878
+2026-01-01,Portalegre,Avis,0.731
+2026-01-01,Portalegre,Campo Maior,5.08
+2026-01-01,Portalegre,Castelo de Vide,2.007
+2026-01-01,Portalegre,Crato,2.238
+2026-01-01,Portalegre,Elvas,21.981
+2026-01-01,Portalegre,Fronteira,0.297
+2026-01-01,Portalegre,Gavião,0.711
+2026-01-01,Portalegre,Marvão,0.195
+2026-01-01,Portalegre,Monforte,0.243
+2026-01-01,Portalegre,Nisa,1.118
+2026-01-01,Portalegre,Ponte de Sor,12.055
+2026-01-01,Portalegre,Portalegre,20.462
+2026-01-01,Portalegre,Sousel,1.531
+2026-01-01,Porto,Amarante,30.568
+2026-01-01,Porto,Baião,3.762
+2026-01-01,Porto,Felgueiras,46.729
+2026-01-01,Porto,Gondomar,195.052
+2026-01-01,Porto,Lousada,28.605
+2026-01-01,Porto,Maia,265.784
+2026-01-01,Porto,Marco de Canaveses,22.686
+2026-01-01,Porto,Matosinhos,495.927
+2026-01-01,Porto,Paredes,72.729
+2026-01-01,Porto,Paços de Ferreira,54.681
+2026-01-01,Porto,Penafiel,91.853
+2026-01-01,Porto,Porto,769.907
+2026-01-01,Porto,Póvoa de Varzim,81.042
+2026-01-01,Porto,Santo Tirso,55.567
+2026-01-01,Porto,Trofa,49.514
+2026-01-01,Porto,Valongo,165.96
+2026-01-01,Porto,Vila Nova de Gaia,634.123
+2026-01-01,Porto,Vila do Conde,153.704
+2026-01-01,Santarém,Abrantes,65.31
+2026-01-01,Santarém,Alcanena,12.142
+2026-01-01,Santarém,Almeirim,16.733
+2026-01-01,Santarém,Alpiarça,2.482
+2026-01-01,Santarém,Benavente,50.144
+2026-01-01,Santarém,Cartaxo,15.896
+2026-01-01,Santarém,Chamusca,4.664
+2026-01-01,Santarém,Constância,2.112
+2026-01-01,Santarém,Coruche,12.96
+2026-01-01,Santarém,Entroncamento,16.331
+2026-01-01,Santarém,Ferreira do Zêzere,4.999
+2026-01-01,Santarém,Golegã,4.29
+2026-01-01,Santarém,Mação,0.702
+2026-01-01,Santarém,Ourém,57.763
+2026-01-01,Santarém,Rio Maior,34.05
+2026-01-01,Santarém,Salvaterra de Magos,18.093
+2026-01-01,Santarém,Santarém,226.345
+2026-01-01,Santarém,Sardoal,0.639
+2026-01-01,Santarém,Tomar,49.105
+2026-01-01,Santarém,Torres Novas,75.92
+2026-01-01,Santarém,Vila Nova da Barquinha,6.889
+2026-01-01,Setúbal,Alcochete,111.092
+2026-01-01,Setúbal,Alcácer do Sal,80.042
+2026-01-01,Setúbal,Almada,345.167
+2026-01-01,Setúbal,Barreiro,241.078
+2026-01-01,Setúbal,Grândola,96.086
+2026-01-01,Setúbal,Moita,60.22
+2026-01-01,Setúbal,Montijo,231.861
+2026-01-01,Setúbal,Palmela,118.212
+2026-01-01,Setúbal,Santiago do Cacém,17.792
+2026-01-01,Setúbal,Seixal,387.251
+2026-01-01,Setúbal,Sesimbra,35.453
+2026-01-01,Setúbal,Setúbal,215.541
+2026-01-01,Setúbal,Sines,33.083
+2026-01-01,Viana do Castelo,Arcos de Valdevez,15.935
+2026-01-01,Viana do Castelo,Caminha,16.653
+2026-01-01,Viana do Castelo,Melgaço,5.592
+2026-01-01,Viana do Castelo,Monção,11.16
+2026-01-01,Viana do Castelo,Paredes de Coura,1.24
+2026-01-01,Viana do Castelo,Ponte da Barca,1.148
+2026-01-01,Viana do Castelo,Ponte de Lima,26.592
+2026-01-01,Viana do Castelo,Valença,14.462
+2026-01-01,Viana do Castelo,Viana do Castelo,95.108
+2026-01-01,Viana do Castelo,Vila Nova de Cerveira,8.766
+2026-01-01,Vila Real,Alijó,0.976
+2026-01-01,Vila Real,Boticas,2.625
+2026-01-01,Vila Real,Chaves,37.099
+2026-01-01,Vila Real,Mesão Frio,0.115
+2026-01-01,Vila Real,Mondim de Basto,3.006
+2026-01-01,Vila Real,Montalegre,2.506
+2026-01-01,Vila Real,Murça,2.298
+2026-01-01,Vila Real,Peso da Régua,14.48
+2026-01-01,Vila Real,Ribeira de Pena,2.228
+2026-01-01,Vila Real,Sabrosa,1.236
+2026-01-01,Vila Real,Santa Marta de Penaguião,1.376
+2026-01-01,Vila Real,Valpaços,3.167
+2026-01-01,Vila Real,Vila Pouca de Aguiar,4.403
+2026-01-01,Vila Real,Vila Real,79.758
+2026-01-01,Viseu,Armamar,1.067
+2026-01-01,Viseu,Carregal do Sal,2.887
+2026-01-01,Viseu,Castro daire,5.201
+2026-01-01,Viseu,Cinfães,1.189
+2026-01-01,Viseu,Lamego,26.495
+2026-01-01,Viseu,Mangualde,15.047
+2026-01-01,Viseu,Moimenta da Beira,3.027
+2026-01-01,Viseu,Mortágua,5.243
+2026-01-01,Viseu,Nelas,9.387
+2026-01-01,Viseu,Oliveira de Frades,6.297
+2026-01-01,Viseu,Penalva do Castelo,1.694
+2026-01-01,Viseu,Penedono,0.082
+2026-01-01,Viseu,Resende,3.603
+2026-01-01,Viseu,Santa Comba Dão,8.974
+2026-01-01,Viseu,Sernancelhe,6.714
+2026-01-01,Viseu,Sátão,2.148
+2026-01-01,Viseu,São João da Pesqueira,1.699
+2026-01-01,Viseu,São Pedro do Sul,6.88
+2026-01-01,Viseu,Tabuaço,0.977
+2026-01-01,Viseu,Tarouca,2.459
+2026-01-01,Viseu,Tondela,17.988
+2026-01-01,Viseu,Vila Nova de Paiva,1.882
+2026-01-01,Viseu,Viseu,164.443
+2026-01-01,Viseu,Vouzela,4.608
+2026-01-01,Évora,Alandroal,0.702
+2026-01-01,Évora,Arraiolos,4.541
+2026-01-01,Évora,Borba,3.136
+2026-01-01,Évora,Estremoz,34.145
+2026-01-01,Évora,Montemor-o-Novo,25.619
+2026-01-01,Évora,Mora,2.337
+2026-01-01,Évora,Mourão,2.672
+2026-01-01,Évora,Portel,0.983
+2026-01-01,Évora,Redondo,2.002
+2026-01-01,Évora,Reguengos de Monsaraz,8.195
+2026-01-01,Évora,Vendas Novas,19.7
+2026-01-01,Évora,Viana do Alentejo,2.228
+2026-01-01,Évora,Vila Viçosa,4.012
+2026-01-01,Évora,Évora,82.684
+2026-02-01,Aveiro,Albergaria-a-Velha,39.176
+2026-02-01,Aveiro,Anadia,21.147
+2026-02-01,Aveiro,Arouca,4.103
+2026-02-01,Aveiro,Aveiro,178.73
+2026-02-01,Aveiro,Castelo de Paiva,4.991
+2026-02-01,Aveiro,Espinho,29.264
+2026-02-01,Aveiro,Estarreja,133.506
+2026-02-01,Aveiro,Mealhada,28.225
+2026-02-01,Aveiro,Murtosa,3.031
+2026-02-01,Aveiro,Oliveira de Azeméis,23.26
+2026-02-01,Aveiro,Oliveira do Bairro,20.86
+2026-02-01,Aveiro,Ovar,75.651
+2026-02-01,Aveiro,Santa Maria da Feira,121.318
+2026-02-01,Aveiro,Sever do Vouga,3.344
+2026-02-01,Aveiro,São João da Madeira,48.128
+2026-02-01,Aveiro,Vagos,20.075
+2026-02-01,Aveiro,Vale de Cambra,12.386
+2026-02-01,Aveiro,Águeda,25.132
+2026-02-01,Aveiro,Ílhavo,41.984
+2026-02-01,Beja,Aljustrel,56.623
+2026-02-01,Beja,Almodôvar,58.03
+2026-02-01,Beja,Alvito,1.142
+2026-02-01,Beja,Barrancos,0.101
+2026-02-01,Beja,Beja,36.848
+2026-02-01,Beja,Castro Verde,5.905
+2026-02-01,Beja,Cuba,4.348
+2026-02-01,Beja,Ferreira do Alentejo,0.131
+2026-02-01,Beja,Moura,2.728
+2026-02-01,Beja,Mértola,2.742
+2026-02-01,Beja,Odemira,5.356
+2026-02-01,Beja,Ourique,4.422
+2026-02-01,Beja,Serpa,1.337
+2026-02-01,Beja,Vidigueira,3.596
+2026-02-01,Braga,Amares,2.817
+2026-02-01,Braga,Barcelos,62.473
+2026-02-01,Braga,Braga,317.23
+2026-02-01,Braga,Cabeceiras de Basto,7.987
+2026-02-01,Braga,Celorico de Basto,3.115
+2026-02-01,Braga,Esposende,44.433
+2026-02-01,Braga,Fafe,29.425
+2026-02-01,Braga,Guimarães,179.139
+2026-02-01,Braga,Póvoa de Lanhoso,4.538
+2026-02-01,Braga,Terras de Bouro,1.69
+2026-02-01,Braga,Vieira do Minho,3.841
+2026-02-01,Braga,Vila Nova de Famalicão,109.544
+2026-02-01,Braga,Vila Verde,21.236
+2026-02-01,Braga,Vizela,22.076
+2026-02-01,Bragança,Alfândega da Fé,1.48
+2026-02-01,Bragança,Bragança,33.338
+2026-02-01,Bragança,Carrazeda de Ansiães,1.075
+2026-02-01,Bragança,Freixo de Espada À Cinta,0.749
+2026-02-01,Bragança,Macedo de Cavaleiros,14.136
+2026-02-01,Bragança,Miranda do douro,5.256
+2026-02-01,Bragança,Mirandela,20.445
+2026-02-01,Bragança,Mogadouro,4.373
+2026-02-01,Bragança,Torre de Moncorvo,4.699
+2026-02-01,Bragança,Vila Flor,2.5
+2026-02-01,Bragança,Vimioso,0.785
+2026-02-01,Bragança,Vinhais,1.616
+2026-02-01,Castelo Branco,Belmonte,1.02
+2026-02-01,Castelo Branco,Castelo Branco,68.548
+2026-02-01,Castelo Branco,Covilhã,69.166
+2026-02-01,Castelo Branco,Fundão,35.915
+2026-02-01,Castelo Branco,Idanha-a-Nova,3.197
+2026-02-01,Castelo Branco,Oleiros,0.83
+2026-02-01,Castelo Branco,Penamacor,0.688
+2026-02-01,Castelo Branco,Proença-a-Nova,1.809
+2026-02-01,Castelo Branco,Sertã,4.948
+2026-02-01,Castelo Branco,Vila Velha de Ródão,18.096
+2026-02-01,Castelo Branco,Vila de Rei,0.438
+2026-02-01,Coimbra,Arganil,2.579
+2026-02-01,Coimbra,Cantanhede,123.687
+2026-02-01,Coimbra,Coimbra,272.049
+2026-02-01,Coimbra,Condeixa-a-Nova,28.584
+2026-02-01,Coimbra,Figueira da Foz,71.374
+2026-02-01,Coimbra,Góis,0.34
+2026-02-01,Coimbra,Lousã,11.466
+2026-02-01,Coimbra,Mira,6.181
+2026-02-01,Coimbra,Miranda do Corvo,5.053
+2026-02-01,Coimbra,Montemor-o-Velho,10.984
+2026-02-01,Coimbra,Oliveira do Hospital,13.648
+2026-02-01,Coimbra,Pampilhosa da Serra,0.894
+2026-02-01,Coimbra,Penacova,8.16
+2026-02-01,Coimbra,Penela,6.953
+2026-02-01,Coimbra,Soure,3.486
+2026-02-01,Coimbra,Tábua,4.934
+2026-02-01,Coimbra,Vila Nova de Poiares,1.51
+2026-02-01,Faro,Albufeira,100.644
+2026-02-01,Faro,Alcoutim,0.941
+2026-02-01,Faro,Aljezur,2.278
+2026-02-01,Faro,Castro Marim,10.802
+2026-02-01,Faro,Faro,114.787
+2026-02-01,Faro,Lagoa,40.195
+2026-02-01,Faro,Lagos,53.741
+2026-02-01,Faro,Loulé,169.047
+2026-02-01,Faro,Monchique,0.941
+2026-02-01,Faro,Olhão,35.427
+2026-02-01,Faro,Portimão,75.88
+2026-02-01,Faro,Silves,42.046
+2026-02-01,Faro,São Brás de Alportel,8.268
+2026-02-01,Faro,Tavira,27.105
+2026-02-01,Faro,Vila Real de Santo António,13.451
+2026-02-01,Faro,Vila do Bispo,7.112
+2026-02-01,Guarda,Aguiar da Beira,1.606
+2026-02-01,Guarda,Almeida,8.424
+2026-02-01,Guarda,Celorico da Beira,6.91
+2026-02-01,Guarda,Figueira de Castelo Rodrigo,1.062
+2026-02-01,Guarda,Fornos de Algodres,0.506
+2026-02-01,Guarda,Gouveia,2.974
+2026-02-01,Guarda,Guarda,41.534
+2026-02-01,Guarda,Manteigas,4.673
+2026-02-01,Guarda,Mêda,0.642
+2026-02-01,Guarda,Pinhel,0.768
+2026-02-01,Guarda,Sabugal,3.619
+2026-02-01,Guarda,Seia,16.838
+2026-02-01,Guarda,Trancoso,4.296
+2026-02-01,Guarda,Vila Nova de Foz Côa,6.77
+2026-02-01,Leiria,Alcobaça,53.58
+2026-02-01,Leiria,Alvaiázere,4.296
+2026-02-01,Leiria,Ansião,10.24
+2026-02-01,Leiria,Batalha,6.368
+2026-02-01,Leiria,Bombarral,10.899
+2026-02-01,Leiria,Caldas da Rainha,76.897
+2026-02-01,Leiria,Castanheira de Pêra,1.297
+2026-02-01,Leiria,Figueiró dos Vinhos,3.089
+2026-02-01,Leiria,Leiria,208.48
+2026-02-01,Leiria,Marinha Grande,39.311
+2026-02-01,Leiria,Nazaré,62.775
+2026-02-01,Leiria,Pedrógão Grande,3.522
+2026-02-01,Leiria,Peniche,26.981
+2026-02-01,Leiria,Pombal,98.446
+2026-02-01,Leiria,Porto de Mós,21.8
+2026-02-01,Leiria,Óbidos,64.265
+2026-02-01,Lisboa,Alenquer,47.375
+2026-02-01,Lisboa,Amadora,321.738
+2026-02-01,Lisboa,Arruda dos Vinhos,33.072
+2026-02-01,Lisboa,Azambuja,166.886
+2026-02-01,Lisboa,Cadaval,3.014
+2026-02-01,Lisboa,Cascais,778.817
+2026-02-01,Lisboa,Lisboa,2100.891
+2026-02-01,Lisboa,Loures,602.959
+2026-02-01,Lisboa,Lourinhã,21.389
+2026-02-01,Lisboa,Mafra,147.341
+2026-02-01,Lisboa,Odivelas,342.187
+2026-02-01,Lisboa,Oeiras,806.822
+2026-02-01,Lisboa,Sintra,770.84
+2026-02-01,Lisboa,Sobral de Monte Agraço,9.682
+2026-02-01,Lisboa,Torres Vedras,142.106
+2026-02-01,Lisboa,Vila Franca de Xira,325.435
+2026-02-01,Portalegre,Alter do Chão,3.872
+2026-02-01,Portalegre,Arronches,0.583
+2026-02-01,Portalegre,Avis,0.381
+2026-02-01,Portalegre,Campo Maior,3.876
+2026-02-01,Portalegre,Castelo de Vide,1.522
+2026-02-01,Portalegre,Crato,1.776
+2026-02-01,Portalegre,Elvas,20.497
+2026-02-01,Portalegre,Fronteira,0.5
+2026-02-01,Portalegre,Gavião,0.652
+2026-02-01,Portalegre,Marvão,0.447
+2026-02-01,Portalegre,Monforte,0.197
+2026-02-01,Portalegre,Nisa,1.406
+2026-02-01,Portalegre,Ponte de Sor,11.555
+2026-02-01,Portalegre,Portalegre,19.163
+2026-02-01,Portalegre,Sousel,1.174
+2026-02-01,Porto,Amarante,29.109
+2026-02-01,Porto,Baião,3.906
+2026-02-01,Porto,Felgueiras,40.572
+2026-02-01,Porto,Gondomar,189.6
+2026-02-01,Porto,Lousada,26.314
+2026-02-01,Porto,Maia,223.806
+2026-02-01,Porto,Marco de Canaveses,20.843
+2026-02-01,Porto,Matosinhos,436.609
+2026-02-01,Porto,Paredes,63.468
+2026-02-01,Porto,Paços de Ferreira,54.407
+2026-02-01,Porto,Penafiel,85.045
+2026-02-01,Porto,Porto,692.937
+2026-02-01,Porto,Póvoa de Varzim,69.988
+2026-02-01,Porto,Santo Tirso,49.779
+2026-02-01,Porto,Trofa,40.906
+2026-02-01,Porto,Valongo,147.821
+2026-02-01,Porto,Vila Nova de Gaia,566.947
+2026-02-01,Porto,Vila do Conde,143.446
+2026-02-01,Santarém,Abrantes,54.765
+2026-02-01,Santarém,Alcanena,11.431
+2026-02-01,Santarém,Almeirim,15.945
+2026-02-01,Santarém,Alpiarça,2.634
+2026-02-01,Santarém,Benavente,43.656
+2026-02-01,Santarém,Cartaxo,14.147
+2026-02-01,Santarém,Chamusca,3.168
+2026-02-01,Santarém,Constância,1.512
+2026-02-01,Santarém,Coruche,11.191
+2026-02-01,Santarém,Entroncamento,15.176
+2026-02-01,Santarém,Ferreira do Zêzere,4.846
+2026-02-01,Santarém,Golegã,2.74
+2026-02-01,Santarém,Mação,0.801
+2026-02-01,Santarém,Ourém,47.198
+2026-02-01,Santarém,Rio Maior,25.143
+2026-02-01,Santarém,Salvaterra de Magos,13.294
+2026-02-01,Santarém,Santarém,190.425
+2026-02-01,Santarém,Sardoal,0.081
+2026-02-01,Santarém,Tomar,46.595
+2026-02-01,Santarém,Torres Novas,61.635
+2026-02-01,Santarém,Vila Nova da Barquinha,5.121
+2026-02-01,Setúbal,Alcochete,94.303
+2026-02-01,Setúbal,Alcácer do Sal,86.439
+2026-02-01,Setúbal,Almada,298.333
+2026-02-01,Setúbal,Barreiro,226.212
+2026-02-01,Setúbal,Grândola,85.758
+2026-02-01,Setúbal,Moita,63.192
+2026-02-01,Setúbal,Montijo,213.826
+2026-02-01,Setúbal,Palmela,104.991
+2026-02-01,Setúbal,Santiago do Cacém,18.539
+2026-02-01,Setúbal,Seixal,374.518
+2026-02-01,Setúbal,Sesimbra,42.159
+2026-02-01,Setúbal,Setúbal,200.372
+2026-02-01,Setúbal,Sines,28.345
+2026-02-01,Viana do Castelo,Arcos de Valdevez,12.497
+2026-02-01,Viana do Castelo,Caminha,18.454
+2026-02-01,Viana do Castelo,Melgaço,5.818
+2026-02-01,Viana do Castelo,Monção,10.48
+2026-02-01,Viana do Castelo,Paredes de Coura,1.22
+2026-02-01,Viana do Castelo,Ponte da Barca,0.768
+2026-02-01,Viana do Castelo,Ponte de Lima,25.731
+2026-02-01,Viana do Castelo,Valença,9.358
+2026-02-01,Viana do Castelo,Viana do Castelo,87.22
+2026-02-01,Viana do Castelo,Vila Nova de Cerveira,7.61
+2026-02-01,Vila Real,Alijó,1.056
+2026-02-01,Vila Real,Boticas,1.595
+2026-02-01,Vila Real,Chaves,35.646
+2026-02-01,Vila Real,Mesão Frio,0.208
+2026-02-01,Vila Real,Mondim de Basto,2.747
+2026-02-01,Vila Real,Montalegre,2.267
+2026-02-01,Vila Real,Murça,1.689
+2026-02-01,Vila Real,Peso da Régua,11.228
+2026-02-01,Vila Real,Ribeira de Pena,1.518
+2026-02-01,Vila Real,Sabrosa,1.126
+2026-02-01,Vila Real,Santa Marta de Penaguião,1.248
+2026-02-01,Vila Real,Valpaços,2.813
+2026-02-01,Vila Real,Vila Pouca de Aguiar,4.146
+2026-02-01,Vila Real,Vila Real,72.713
+2026-02-01,Viseu,Armamar,1.412
+2026-02-01,Viseu,Carregal do Sal,2.178
+2026-02-01,Viseu,Castro daire,4.548
+2026-02-01,Viseu,Cinfães,1.699
+2026-02-01,Viseu,Lamego,23.495
+2026-02-01,Viseu,Mangualde,12.806
+2026-02-01,Viseu,Moimenta da Beira,2.562
+2026-02-01,Viseu,Mortágua,4.908
+2026-02-01,Viseu,Nelas,7.891
+2026-02-01,Viseu,Oliveira de Frades,6.592
+2026-02-01,Viseu,Penalva do Castelo,1.682
+2026-02-01,Viseu,Penedono,0.318
+2026-02-01,Viseu,Resende,2.574
+2026-02-01,Viseu,Santa Comba Dão,7.024
+2026-02-01,Viseu,Sernancelhe,5.798
+2026-02-01,Viseu,Sátão,2.103
+2026-02-01,Viseu,São João da Pesqueira,1.479
+2026-02-01,Viseu,São Pedro do Sul,6.078
+2026-02-01,Viseu,Tabuaço,0.63
+2026-02-01,Viseu,Tarouca,3.431
+2026-02-01,Viseu,Tondela,15.127
+2026-02-01,Viseu,Vila Nova de Paiva,1.792
+2026-02-01,Viseu,Viseu,135.485
+2026-02-01,Viseu,Vouzela,4.638
+2026-02-01,Évora,Alandroal,0.601
+2026-02-01,Évora,Arraiolos,3.413
+2026-02-01,Évora,Borba,4.227
+2026-02-01,Évora,Estremoz,31.968
+2026-02-01,Évora,Montemor-o-Novo,23.028
+2026-02-01,Évora,Mora,1.522
+2026-02-01,Évora,Mourão,2.553
+2026-02-01,Évora,Portel,1.128
+2026-02-01,Évora,Redondo,2.776
+2026-02-01,Évora,Reguengos de Monsaraz,5.909
+2026-02-01,Évora,Vendas Novas,19.542
+2026-02-01,Évora,Viana do Alentejo,3.207
+2026-02-01,Évora,Vila Viçosa,2.462
+2026-02-01,Évora,Évora,81.363
+2026-03-01,Aveiro,Albergaria-a-Velha,38.252
+2026-03-01,Aveiro,Anadia,23.042
+2026-03-01,Aveiro,Arouca,4.802
+2026-03-01,Aveiro,Aveiro,203.97
+2026-03-01,Aveiro,Castelo de Paiva,7.264
+2026-03-01,Aveiro,Espinho,37.746
+2026-03-01,Aveiro,Estarreja,158.498
+2026-03-01,Aveiro,Mealhada,37.051
+2026-03-01,Aveiro,Murtosa,3.457
+2026-03-01,Aveiro,Oliveira de Azeméis,25.373
+2026-03-01,Aveiro,Oliveira do Bairro,22.758
+2026-03-01,Aveiro,Ovar,78.75
+2026-03-01,Aveiro,Santa Maria da Feira,135.598
+2026-03-01,Aveiro,Sever do Vouga,4.919
+2026-03-01,Aveiro,São João da Madeira,54.297
+2026-03-01,Aveiro,Vagos,19.87
+2026-03-01,Aveiro,Vale de Cambra,13.469
+2026-03-01,Aveiro,Águeda,29.634
+2026-03-01,Aveiro,Ílhavo,46.756
+2026-03-01,Beja,Aljustrel,71.497
+2026-03-01,Beja,Almodôvar,71.709
+2026-03-01,Beja,Alvito,0.932
+2026-03-01,Beja,Barrancos,0.186
+2026-03-01,Beja,Beja,47.408
+2026-03-01,Beja,Castro Verde,7.412
+2026-03-01,Beja,Cuba,5.249
+2026-03-01,Beja,Ferreira do Alentejo,0.524
+2026-03-01,Beja,Moura,5.385
+2026-03-01,Beja,Mértola,3.132
+2026-03-01,Beja,Odemira,7.381
+2026-03-01,Beja,Ourique,7.586
+2026-03-01,Beja,Serpa,0.708
+2026-03-01,Beja,Vidigueira,3.312
+2026-03-01,Braga,Amares,3.978
+2026-03-01,Braga,Barcelos,71.472
+2026-03-01,Braga,Braga,350.862
+2026-03-01,Braga,Cabeceiras de Basto,10.627
+2026-03-01,Braga,Celorico de Basto,3.833
+2026-03-01,Braga,Esposende,49.082
+2026-03-01,Braga,Fafe,29.002
+2026-03-01,Braga,Guimarães,196.637
+2026-03-01,Braga,Póvoa de Lanhoso,4.449
+2026-03-01,Braga,Terras de Bouro,2.487
+2026-03-01,Braga,Vieira do Minho,5.299
+2026-03-01,Braga,Vila Nova de Famalicão,106.313
+2026-03-01,Braga,Vila Verde,19.418
+2026-03-01,Braga,Vizela,22.051
+2026-03-01,Bragança,Alfândega da Fé,1.86
+2026-03-01,Bragança,Bragança,34.281
+2026-03-01,Bragança,Carrazeda de Ansiães,0.919
+2026-03-01,Bragança,Freixo de Espada À Cinta,0.86
+2026-03-01,Bragança,Macedo de Cavaleiros,11.546
+2026-03-01,Bragança,Miranda do douro,5.859
+2026-03-01,Bragança,Mirandela,21.958
+2026-03-01,Bragança,Mogadouro,5.402
+2026-03-01,Bragança,Torre de Moncorvo,5.569
+2026-03-01,Bragança,Vila Flor,3.451
+2026-03-01,Bragança,Vimioso,1.0
+2026-03-01,Bragança,Vinhais,0.929
+2026-03-01,Castelo Branco,Belmonte,1.779
+2026-03-01,Castelo Branco,Castelo Branco,75.564
+2026-03-01,Castelo Branco,Covilhã,64.428
+2026-03-01,Castelo Branco,Fundão,36.281
+2026-03-01,Castelo Branco,Idanha-a-Nova,2.758
+2026-03-01,Castelo Branco,Oleiros,1.341
+2026-03-01,Castelo Branco,Penamacor,0.791
+2026-03-01,Castelo Branco,Proença-a-Nova,2.453
+2026-03-01,Castelo Branco,Sertã,6.781
+2026-03-01,Castelo Branco,Vila Velha de Ródão,19.727
+2026-03-01,Castelo Branco,Vila de Rei,0.552
+2026-03-01,Coimbra,Arganil,2.988
+2026-03-01,Coimbra,Cantanhede,169.593
+2026-03-01,Coimbra,Coimbra,306.313
+2026-03-01,Coimbra,Condeixa-a-Nova,30.653
+2026-03-01,Coimbra,Figueira da Foz,69.143
+2026-03-01,Coimbra,Góis,0.878
+2026-03-01,Coimbra,Lousã,13.13
+2026-03-01,Coimbra,Mira,6.293
+2026-03-01,Coimbra,Miranda do Corvo,6.192
+2026-03-01,Coimbra,Montemor-o-Velho,15.759
+2026-03-01,Coimbra,Oliveira do Hospital,16.729
+2026-03-01,Coimbra,Pampilhosa da Serra,1.319
+2026-03-01,Coimbra,Penacova,10.14
+2026-03-01,Coimbra,Penela,6.319
+2026-03-01,Coimbra,Soure,4.688
+2026-03-01,Coimbra,Tábua,6.478
+2026-03-01,Coimbra,Vila Nova de Poiares,1.087
+2026-03-01,Faro,Albufeira,149.019
+2026-03-01,Faro,Alcoutim,1.226
+2026-03-01,Faro,Aljezur,4.879
+2026-03-01,Faro,Castro Marim,12.68
+2026-03-01,Faro,Faro,154.708
+2026-03-01,Faro,Lagoa,52.707
+2026-03-01,Faro,Lagos,69.623
+2026-03-01,Faro,Loulé,203.699
+2026-03-01,Faro,Monchique,1.029
+2026-03-01,Faro,Olhão,42.823
+2026-03-01,Faro,Portimão,95.631
+2026-03-01,Faro,Silves,58.62
+2026-03-01,Faro,São Brás de Alportel,10.592
+2026-03-01,Faro,Tavira,32.51
+2026-03-01,Faro,Vila Real de Santo António,14.564
+2026-03-01,Faro,Vila do Bispo,10.08
+2026-03-01,Guarda,Aguiar da Beira,1.36
+2026-03-01,Guarda,Almeida,8.315
+2026-03-01,Guarda,Celorico da Beira,7.14
+2026-03-01,Guarda,Figueira de Castelo Rodrigo,1.228
+2026-03-01,Guarda,Fornos de Algodres,0.621
+2026-03-01,Guarda,Gouveia,3.398
+2026-03-01,Guarda,Guarda,45.338
+2026-03-01,Guarda,Manteigas,3.057
+2026-03-01,Guarda,Mêda,0.77
+2026-03-01,Guarda,Pinhel,0.533
+2026-03-01,Guarda,Sabugal,3.41
+2026-03-01,Guarda,Seia,12.807
+2026-03-01,Guarda,Trancoso,5.012
+2026-03-01,Guarda,Vila Nova de Foz Côa,5.906
+2026-03-01,Leiria,Alcobaça,59.41
+2026-03-01,Leiria,Alvaiázere,8.589
+2026-03-01,Leiria,Ansião,8.92
+2026-03-01,Leiria,Batalha,9.698
+2026-03-01,Leiria,Bombarral,17.542
+2026-03-01,Leiria,Caldas da Rainha,89.894
+2026-03-01,Leiria,Castanheira de Pêra,1.935
+2026-03-01,Leiria,Figueiró dos Vinhos,1.971
+2026-03-01,Leiria,Leiria,346.686
+2026-03-01,Leiria,Marinha Grande,36.526
+2026-03-01,Leiria,Nazaré,49.052
+2026-03-01,Leiria,Pedrógão Grande,4.961
+2026-03-01,Leiria,Peniche,31.09
+2026-03-01,Leiria,Pombal,125.181
+2026-03-01,Leiria,Porto de Mós,20.251
+2026-03-01,Leiria,Óbidos,67.953
+2026-03-01,Lisboa,Alenquer,62.269
+2026-03-01,Lisboa,Amadora,368.39
+2026-03-01,Lisboa,Arruda dos Vinhos,37.794
+2026-03-01,Lisboa,Azambuja,196.028
+2026-03-01,Lisboa,Cadaval,4.233
+2026-03-01,Lisboa,Cascais,928.873
+2026-03-01,Lisboa,Lisboa,2459.416
+2026-03-01,Lisboa,Loures,667.135
+2026-03-01,Lisboa,Lourinhã,28.108
+2026-03-01,Lisboa,Mafra,165.826
+2026-03-01,Lisboa,Odivelas,378.018
+2026-03-01,Lisboa,Oeiras,899.069
+2026-03-01,Lisboa,Sintra,902.147
+2026-03-01,Lisboa,Sobral de Monte Agraço,10.779
+2026-03-01,Lisboa,Torres Vedras,158.711
+2026-03-01,Lisboa,Vila Franca de Xira,357.483
+2026-03-01,Portalegre,Alter do Chão,4.704
+2026-03-01,Portalegre,Arronches,1.137
+2026-03-01,Portalegre,Avis,0.719
+2026-03-01,Portalegre,Campo Maior,5.804
+2026-03-01,Portalegre,Castelo de Vide,2.442
+2026-03-01,Portalegre,Crato,1.872
+2026-03-01,Portalegre,Elvas,29.862
+2026-03-01,Portalegre,Fronteira,0.673
+2026-03-01,Portalegre,Gavião,0.55
+2026-03-01,Portalegre,Marvão,0.647
+2026-03-01,Portalegre,Monforte,0.795
+2026-03-01,Portalegre,Nisa,1.613
+2026-03-01,Portalegre,Ponte de Sor,13.761
+2026-03-01,Portalegre,Portalegre,24.43
+2026-03-01,Portalegre,Sousel,1.346
+2026-03-01,Porto,Amarante,33.235
+2026-03-01,Porto,Baião,4.107
+2026-03-01,Porto,Felgueiras,39.946
+2026-03-01,Porto,Gondomar,212.603
+2026-03-01,Porto,Lousada,25.241
+2026-03-01,Porto,Maia,268.691
+2026-03-01,Porto,Marco de Canaveses,24.656
+2026-03-01,Porto,Matosinhos,489.753
+2026-03-01,Porto,Paredes,69.514
+2026-03-01,Porto,Paços de Ferreira,52.576
+2026-03-01,Porto,Penafiel,92.595
+2026-03-01,Porto,Porto,753.573
+2026-03-01,Porto,Póvoa de Varzim,80.922
+2026-03-01,Porto,Santo Tirso,57.21
+2026-03-01,Porto,Trofa,43.633
+2026-03-01,Porto,Valongo,162.042
+2026-03-01,Porto,Vila Nova de Gaia,632.819
+2026-03-01,Porto,Vila do Conde,159.156
+2026-03-01,Santarém,Abrantes,62.533
+2026-03-01,Santarém,Alcanena,11.417
+2026-03-01,Santarém,Almeirim,15.093
+2026-03-01,Santarém,Alpiarça,2.75
+2026-03-01,Santarém,Benavente,49.879
+2026-03-01,Santarém,Cartaxo,17.89
+2026-03-01,Santarém,Chamusca,4.301
+2026-03-01,Santarém,Constância,1.566
+2026-03-01,Santarém,Coruche,13.137
+2026-03-01,Santarém,Entroncamento,18.807
+2026-03-01,Santarém,Ferreira do Zêzere,5.262
+2026-03-01,Santarém,Golegã,5.505
+2026-03-01,Santarém,Mação,0.526
+2026-03-01,Santarém,Ourém,46.24
+2026-03-01,Santarém,Rio Maior,28.064
+2026-03-01,Santarém,Salvaterra de Magos,22.919
+2026-03-01,Santarém,Santarém,230.746
+2026-03-01,Santarém,Sardoal,0.221
+2026-03-01,Santarém,Tomar,51.715
+2026-03-01,Santarém,Torres Novas,71.027
+2026-03-01,Santarém,Vila Nova da Barquinha,6.62
+2026-03-01,Setúbal,Alcochete,108.42
+2026-03-01,Setúbal,Alcácer do Sal,118.829
+2026-03-01,Setúbal,Almada,383.827
+2026-03-01,Setúbal,Barreiro,251.103
+2026-03-01,Setúbal,Grândola,119.061
+2026-03-01,Setúbal,Moita,84.28
+2026-03-01,Setúbal,Montijo,252.005
+2026-03-01,Setúbal,Palmela,122.524
+2026-03-01,Setúbal,Santiago do Cacém,23.542
+2026-03-01,Setúbal,Seixal,389.466
+2026-03-01,Setúbal,Sesimbra,65.952
+2026-03-01,Setúbal,Setúbal,223.848
+2026-03-01,Setúbal,Sines,33.75
+2026-03-01,Viana do Castelo,Arcos de Valdevez,14.972
+2026-03-01,Viana do Castelo,Caminha,22.887
+2026-03-01,Viana do Castelo,Melgaço,5.743
+2026-03-01,Viana do Castelo,Monção,12.077
+2026-03-01,Viana do Castelo,Paredes de Coura,1.338
+2026-03-01,Viana do Castelo,Ponte da Barca,0.903
+2026-03-01,Viana do Castelo,Ponte de Lima,29.256
+2026-03-01,Viana do Castelo,Valença,9.021
+2026-03-01,Viana do Castelo,Viana do Castelo,92.314
+2026-03-01,Viana do Castelo,Vila Nova de Cerveira,8.895
+2026-03-01,Vila Real,Alijó,1.209
+2026-03-01,Vila Real,Boticas,1.504
+2026-03-01,Vila Real,Chaves,37.811
+2026-03-01,Vila Real,Mesão Frio,0.184
+2026-03-01,Vila Real,Mondim de Basto,3.17
+2026-03-01,Vila Real,Montalegre,1.512
+2026-03-01,Vila Real,Murça,2.094
+2026-03-01,Vila Real,Peso da Régua,15.511
+2026-03-01,Vila Real,Ribeira de Pena,1.647
+2026-03-01,Vila Real,Sabrosa,2.08
+2026-03-01,Vila Real,Santa Marta de Penaguião,1.163
+2026-03-01,Vila Real,Valpaços,3.974
+2026-03-01,Vila Real,Vila Pouca de Aguiar,4.197
+2026-03-01,Vila Real,Vila Real,90.185
+2026-03-01,Viseu,Armamar,1.566
+2026-03-01,Viseu,Carregal do Sal,3.013
+2026-03-01,Viseu,Castro daire,4.214
+2026-03-01,Viseu,Cinfães,1.839
+2026-03-01,Viseu,Lamego,26.047
+2026-03-01,Viseu,Mangualde,14.399
+2026-03-01,Viseu,Moimenta da Beira,3.283
+2026-03-01,Viseu,Mortágua,6.887
+2026-03-01,Viseu,Nelas,8.619
+2026-03-01,Viseu,Oliveira de Frades,5.05
+2026-03-01,Viseu,Penalva do Castelo,1.831
+2026-03-01,Viseu,Penedono,0.336
+2026-03-01,Viseu,Resende,3.677
+2026-03-01,Viseu,Santa Comba Dão,9.158
+2026-03-01,Viseu,Sernancelhe,4.894
+2026-03-01,Viseu,Sátão,2.542
+2026-03-01,Viseu,São João da Pesqueira,1.864
+2026-03-01,Viseu,São Pedro do Sul,8.6
+2026-03-01,Viseu,Tabuaço,0.716
+2026-03-01,Viseu,Tarouca,3.008
+2026-03-01,Viseu,Tondela,17.912
+2026-03-01,Viseu,Vila Nova de Paiva,1.859
+2026-03-01,Viseu,Viseu,153.389
+2026-03-01,Viseu,Vouzela,5.935
+2026-03-01,Évora,Alandroal,0.828
+2026-03-01,Évora,Arraiolos,4.204
+2026-03-01,Évora,Borba,3.984
+2026-03-01,Évora,Estremoz,39.156
+2026-03-01,Évora,Montemor-o-Novo,27.287
+2026-03-01,Évora,Mora,2.052
+2026-03-01,Évora,Mourão,2.977
+2026-03-01,Évora,Portel,1.19
+2026-03-01,Évora,Redondo,2.425
+2026-03-01,Évora,Reguengos de Monsaraz,8.416
+2026-03-01,Évora,Vendas Novas,38.672
+2026-03-01,Évora,Viana do Alentejo,2.74
+2026-03-01,Évora,Vila Viçosa,3.014
+2026-03-01,Évora,Évora,91.107
+2026-04-01,Aveiro,Albergaria-a-Velha,35.462
+2026-04-01,Aveiro,Anadia,23.305
+2026-04-01,Aveiro,Arouca,4.713
+2026-04-01,Aveiro,Aveiro,173.463
+2026-04-01,Aveiro,Castelo de Paiva,5.583
+2026-04-01,Aveiro,Espinho,29.491
+2026-04-01,Aveiro,Estarreja,159.052
+2026-04-01,Aveiro,Mealhada,38.33
+2026-04-01,Aveiro,Murtosa,3.089
+2026-04-01,Aveiro,Oliveira de Azeméis,19.5
+2026-04-01,Aveiro,Oliveira do Bairro,19.242
+2026-04-01,Aveiro,Ovar,73.783
+2026-04-01,Aveiro,Santa Maria da Feira,118.347
+2026-04-01,Aveiro,Sever do Vouga,5.0
+2026-04-01,Aveiro,São João da Madeira,50.052
+2026-04-01,Aveiro,Vagos,12.699
+2026-04-01,Aveiro,Vale de Cambra,9.885
+2026-04-01,Aveiro,Águeda,19.255
+2026-04-01,Aveiro,Ílhavo,47.746
+2026-04-01,Beja,Aljustrel,90.61
+2026-04-01,Beja,Almodôvar,67.644
+2026-04-01,Beja,Alvito,1.144
+2026-04-01,Beja,Barrancos,0.508
+2026-04-01,Beja,Beja,51.278
+2026-04-01,Beja,Castro Verde,6.954
+2026-04-01,Beja,Cuba,6.151
+2026-04-01,Beja,Ferreira do Alentejo,0.026
+2026-04-01,Beja,Moura,7.359
+2026-04-01,Beja,Mértola,3.155
+2026-04-01,Beja,Odemira,5.449
+2026-04-01,Beja,Ourique,9.127
+2026-04-01,Beja,Serpa,1.713
+2026-04-01,Beja,Vidigueira,3.726
+2026-04-01,Braga,Amares,3.224
+2026-04-01,Braga,Barcelos,65.712
+2026-04-01,Braga,Braga,319.41
+2026-04-01,Braga,Cabeceiras de Basto,10.987
+2026-04-01,Braga,Celorico de Basto,3.22
+2026-04-01,Braga,Esposende,42.738
+2026-04-01,Braga,Fafe,26.984
+2026-04-01,Braga,Guimarães,177.096
+2026-04-01,Braga,Póvoa de Lanhoso,4.073
+2026-04-01,Braga,Terras de Bouro,4.003
+2026-04-01,Braga,Vieira do Minho,3.597
+2026-04-01,Braga,Vila Nova de Famalicão,93.35
+2026-04-01,Braga,Vila Verde,15.601
+2026-04-01,Braga,Vizela,25.035
+2026-04-01,Bragança,Alfândega da Fé,1.754
+2026-04-01,Bragança,Bragança,31.546
+2026-04-01,Bragança,Carrazeda de Ansiães,1.055
+2026-04-01,Bragança,Freixo de Espada À Cinta,0.494
+2026-04-01,Bragança,Macedo de Cavaleiros,10.922
+2026-04-01,Bragança,Miranda do douro,8.67
+2026-04-01,Bragança,Mirandela,22.673
+2026-04-01,Bragança,Mogadouro,4.75
+2026-04-01,Bragança,Torre de Moncorvo,6.115
+2026-04-01,Bragança,Vila Flor,2.219
+2026-04-01,Bragança,Vimioso,0.728
+2026-04-01,Bragança,Vinhais,0.858
+2026-04-01,Castelo Branco,Belmonte,1.724
+2026-04-01,Castelo Branco,Castelo Branco,86.851
+2026-04-01,Castelo Branco,Covilhã,54.521
+2026-04-01,Castelo Branco,Fundão,37.083
+2026-04-01,Castelo Branco,Idanha-a-Nova,5.048
+2026-04-01,Castelo Branco,Oleiros,0.668
+2026-04-01,Castelo Branco,Penamacor,1.212
+2026-04-01,Castelo Branco,Proença-a-Nova,4.156
+2026-04-01,Castelo Branco,Sertã,5.42
+2026-04-01,Castelo Branco,Vila Velha de Ródão,19.996
+2026-04-01,Castelo Branco,Vila de Rei,0.774
+2026-04-01,Coimbra,Arganil,2.48
+2026-04-01,Coimbra,Cantanhede,133.172
+2026-04-01,Coimbra,Coimbra,299.78
+2026-04-01,Coimbra,Condeixa-a-Nova,26.878
+2026-04-01,Coimbra,Figueira da Foz,74.815
+2026-04-01,Coimbra,Góis,0.827
+2026-04-01,Coimbra,Lousã,10.843
+2026-04-01,Coimbra,Mira,7.018
+2026-04-01,Coimbra,Miranda do Corvo,7.996
+2026-04-01,Coimbra,Montemor-o-Velho,12.868
+2026-04-01,Coimbra,Oliveira do Hospital,12.222
+2026-04-01,Coimbra,Pampilhosa da Serra,1.238
+2026-04-01,Coimbra,Penacova,9.276
+2026-04-01,Coimbra,Penela,4.401
+2026-04-01,Coimbra,Soure,4.032
+2026-04-01,Coimbra,Tábua,6.425
+2026-04-01,Coimbra,Vila Nova de Poiares,0.927
+2026-04-01,Faro,Albufeira,203.427
+2026-04-01,Faro,Alcoutim,1.033
+2026-04-01,Faro,Aljezur,6.063
+2026-04-01,Faro,Castro Marim,16.797
+2026-04-01,Faro,Faro,178.469
+2026-04-01,Faro,Lagoa,55.393
+2026-04-01,Faro,Lagos,95.837
+2026-04-01,Faro,Loulé,254.435
+2026-04-01,Faro,Monchique,1.34
+2026-04-01,Faro,Olhão,51.202
+2026-04-01,Faro,Portimão,105.404
+2026-04-01,Faro,Silves,65.881
+2026-04-01,Faro,São Brás de Alportel,9.177
+2026-04-01,Faro,Tavira,39.943
+2026-04-01,Faro,Vila Real de Santo António,21.102
+2026-04-01,Faro,Vila do Bispo,7.914
+2026-04-01,Guarda,Aguiar da Beira,1.004
+2026-04-01,Guarda,Almeida,10.216
+2026-04-01,Guarda,Celorico da Beira,6.344
+2026-04-01,Guarda,Figueira de Castelo Rodrigo,0.668
+2026-04-01,Guarda,Fornos de Algodres,0.61
+2026-04-01,Guarda,Gouveia,2.673
+2026-04-01,Guarda,Guarda,50.453
+2026-04-01,Guarda,Manteigas,2.284
+2026-04-01,Guarda,Mêda,0.722
+2026-04-01,Guarda,Pinhel,0.622
+2026-04-01,Guarda,Sabugal,4.257
+2026-04-01,Guarda,Seia,11.119
+2026-04-01,Guarda,Trancoso,3.64
+2026-04-01,Guarda,Vila Nova de Foz Côa,6.879
+2026-04-01,Leiria,Alcobaça,54.339
+2026-04-01,Leiria,Alvaiázere,7.174
+2026-04-01,Leiria,Ansião,8.81
+2026-04-01,Leiria,Batalha,7.386
+2026-04-01,Leiria,Bombarral,16.45
+2026-04-01,Leiria,Caldas da Rainha,71.933
+2026-04-01,Leiria,Castanheira de Pêra,1.275
+2026-04-01,Leiria,Figueiró dos Vinhos,1.674
+2026-04-01,Leiria,Leiria,278.154
+2026-04-01,Leiria,Marinha Grande,30.847
+2026-04-01,Leiria,Nazaré,42.295
+2026-04-01,Leiria,Pedrógão Grande,5.315
+2026-04-01,Leiria,Peniche,27.876
+2026-04-01,Leiria,Pombal,112.448
+2026-04-01,Leiria,Porto de Mós,17.058
+2026-04-01,Leiria,Óbidos,61.292
+2026-04-01,Lisboa,Alenquer,61.196
+2026-04-01,Lisboa,Amadora,371.043
+2026-04-01,Lisboa,Arruda dos Vinhos,33.18
+2026-04-01,Lisboa,Azambuja,221.588
+2026-04-01,Lisboa,Cadaval,4.5
+2026-04-01,Lisboa,Cascais,933.104
+2026-04-01,Lisboa,Lisboa,2383.34
+2026-04-01,Lisboa,Loures,691.907
+2026-04-01,Lisboa,Lourinhã,29.685
+2026-04-01,Lisboa,Mafra,160.198
+2026-04-01,Lisboa,Odivelas,394.308
+2026-04-01,Lisboa,Oeiras,853.671
+2026-04-01,Lisboa,Sintra,882.496
+2026-04-01,Lisboa,Sobral de Monte Agraço,8.865
+2026-04-01,Lisboa,Torres Vedras,149.829
+2026-04-01,Lisboa,Vila Franca de Xira,339.753
+2026-04-01,Portalegre,Alter do Chão,7.09
+2026-04-01,Portalegre,Arronches,1.092
+2026-04-01,Portalegre,Avis,0.571
+2026-04-01,Portalegre,Campo Maior,4.855
+2026-04-01,Portalegre,Castelo de Vide,2.704
+2026-04-01,Portalegre,Crato,2.62
+2026-04-01,Portalegre,Elvas,32.756
+2026-04-01,Portalegre,Fronteira,1.069
+2026-04-01,Portalegre,Gavião,0.958
+2026-04-01,Portalegre,Marvão,0.569
+2026-04-01,Portalegre,Monforte,0.781
+2026-04-01,Portalegre,Nisa,1.683
+2026-04-01,Portalegre,Ponte de Sor,15.009
+2026-04-01,Portalegre,Portalegre,32.098
+2026-04-01,Portalegre,Sousel,1.628
+2026-04-01,Porto,Amarante,35.617
+2026-04-01,Porto,Baião,5.489
+2026-04-01,Porto,Felgueiras,39.507
+2026-04-01,Porto,Gondomar,203.145
+2026-04-01,Porto,Lousada,26.391
+2026-04-01,Porto,Maia,295.947
+2026-04-01,Porto,Marco de Canaveses,23.073
+2026-04-01,Porto,Matosinhos,469.48
+2026-04-01,Porto,Paredes,64.869
+2026-04-01,Porto,Paços de Ferreira,46.567
+2026-04-01,Porto,Penafiel,94.994
+2026-04-01,Porto,Porto,773.178
+2026-04-01,Porto,Póvoa de Varzim,80.165
+2026-04-01,Porto,Santo Tirso,54.71
+2026-04-01,Porto,Trofa,48.518
+2026-04-01,Porto,Valongo,165.055
+2026-04-01,Porto,Vila Nova de Gaia,623.477
+2026-04-01,Porto,Vila do Conde,160.309
+2026-04-01,Santarém,Abrantes,66.454
+2026-04-01,Santarém,Alcanena,9.361
+2026-04-01,Santarém,Almeirim,18.497
+2026-04-01,Santarém,Alpiarça,2.522
+2026-04-01,Santarém,Benavente,52.563
+2026-04-01,Santarém,Cartaxo,20.258
+2026-04-01,Santarém,Chamusca,3.978
+2026-04-01,Santarém,Constância,2.001
+2026-04-01,Santarém,Coruche,15.182
+2026-04-01,Santarém,Entroncamento,21.902
+2026-04-01,Santarém,Ferreira do Zêzere,7.437
+2026-04-01,Santarém,Golegã,6.483
+2026-04-01,Santarém,Mação,0.771
+2026-04-01,Santarém,Ourém,72.504
+2026-04-01,Santarém,Rio Maior,26.49
+2026-04-01,Santarém,Salvaterra de Magos,26.93
+2026-04-01,Santarém,Santarém,237.464
+2026-04-01,Santarém,Sardoal,0.63
+2026-04-01,Santarém,Tomar,55.134
+2026-04-01,Santarém,Torres Novas,79.519
+2026-04-01,Santarém,Vila Nova da Barquinha,8.008
+2026-04-01,Setúbal,Alcochete,114.972
+2026-04-01,Setúbal,Alcácer do Sal,144.663
+2026-04-01,Setúbal,Almada,401.72
+2026-04-01,Setúbal,Barreiro,234.113
+2026-04-01,Setúbal,Grândola,154.564
+2026-04-01,Setúbal,Moita,95.754
+2026-04-01,Setúbal,Montijo,242.548
+2026-04-01,Setúbal,Palmela,126.877
+2026-04-01,Setúbal,Santiago do Cacém,26.105
+2026-04-01,Setúbal,Seixal,371.066
+2026-04-01,Setúbal,Sesimbra,72.278
+2026-04-01,Setúbal,Setúbal,231.485
+2026-04-01,Setúbal,Sines,43.658
+2026-04-01,Viana do Castelo,Arcos de Valdevez,17.915
+2026-04-01,Viana do Castelo,Caminha,28.078
+2026-04-01,Viana do Castelo,Melgaço,7.988
+2026-04-01,Viana do Castelo,Monção,11.261
+2026-04-01,Viana do Castelo,Paredes de Coura,1.547
+2026-04-01,Viana do Castelo,Ponte da Barca,1.481
+2026-04-01,Viana do Castelo,Ponte de Lima,31.135
+2026-04-01,Viana do Castelo,Valença,19.554
+2026-04-01,Viana do Castelo,Viana do Castelo,97.626
+2026-04-01,Viana do Castelo,Vila Nova de Cerveira,9.399
+2026-04-01,Vila Real,Alijó,1.585
+2026-04-01,Vila Real,Boticas,1.389
+2026-04-01,Vila Real,Chaves,42.463
+2026-04-01,Vila Real,Mesão Frio,0.388
+2026-04-01,Vila Real,Mondim de Basto,3.517
+2026-04-01,Vila Real,Montalegre,1.519
+2026-04-01,Vila Real,Murça,1.855
+2026-04-01,Vila Real,Peso da Régua,19.982
+2026-04-01,Vila Real,Ribeira de Pena,2.629
+2026-04-01,Vila Real,Sabrosa,2.399
+2026-04-01,Vila Real,Santa Marta de Penaguião,1.116
+2026-04-01,Vila Real,Valpaços,3.668
+2026-04-01,Vila Real,Vila Pouca de Aguiar,5.599
+2026-04-01,Vila Real,Vila Real,98.935
+2026-04-01,Viseu,Armamar,2.329
+2026-04-01,Viseu,Carregal do Sal,3.523
+2026-04-01,Viseu,Castro daire,6.224
+2026-04-01,Viseu,Cinfães,2.958
+2026-04-01,Viseu,Lamego,28.559
+2026-04-01,Viseu,Mangualde,15.455
+2026-04-01,Viseu,Moimenta da Beira,3.855
+2026-04-01,Viseu,Mortágua,5.7
+2026-04-01,Viseu,Nelas,9.114
+2026-04-01,Viseu,Oliveira de Frades,6.978
+2026-04-01,Viseu,Penalva do Castelo,2.561
+2026-04-01,Viseu,Penedono,0.416
+2026-04-01,Viseu,Resende,5.029
+2026-04-01,Viseu,Santa Comba Dão,9.446
+2026-04-01,Viseu,Sernancelhe,3.359
+2026-04-01,Viseu,Sátão,3.145
+2026-04-01,Viseu,São João da Pesqueira,1.754
+2026-04-01,Viseu,São Pedro do Sul,10.491
+2026-04-01,Viseu,Tabuaço,1.069
+2026-04-01,Viseu,Tarouca,3.718
+2026-04-01,Viseu,Tondela,22.202
+2026-04-01,Viseu,Vila Nova de Paiva,2.602
+2026-04-01,Viseu,Viseu,147.734
+2026-04-01,Viseu,Vouzela,8.644
+2026-04-01,Évora,Alandroal,0.696
+2026-04-01,Évora,Arraiolos,3.748
+2026-04-01,Évora,Borba,2.945
+2026-04-01,Évora,Estremoz,41.337
+2026-04-01,Évora,Montemor-o-Novo,20.754
+2026-04-01,Évora,Mora,2.048
+2026-04-01,Évora,Mourão,3.778
+2026-04-01,Évora,Portel,1.161
+2026-04-01,Évora,Redondo,1.851
+2026-04-01,Évora,Reguengos de Monsaraz,9.137
+2026-04-01,Évora,Vendas Novas,33.071
+2026-04-01,Évora,Viana do Alentejo,2.8
+2026-04-01,Évora,Vila Viçosa,4.063
+2026-04-01,Évora,Évora,94.728
