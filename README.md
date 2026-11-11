@@ -34,14 +34,14 @@ Every title, sentence and figure is written from the data at the moment the page
 
 ## Findings
 
-These come from the run of 28 October 2026, with data from 27 October 2021 to 27 October 2026. They shift a little each time the window moves forward, while the dashboard always shows the latest run.
+These come from the run of 29 October 2026, with data from 28 October 2021 to 28 October 2026. They shift a little each time the window moves forward, while the dashboard always shows the latest run.
 
 - **Renewables grew, but not in a straight line.** Domestic production was 62.3% renewable in 2022, 77.2% in 2023 and 88.7% in 2024, then 83.8% in 2025. 2022 was a weak year for hydro, which averaged about 23,800 MWh a day, less than half of 2024.
 - **Solar kept climbing.** Average daily solar output rose from about 6,900 MWh in 2022 to 16,700 MWh in 2025, 2.4 times more.
 - **The 2025 dip came from gas, not from a shortfall in renewables.** From April to June, renewable output was 2,913 MWh a day higher than a year earlier, yet the share fell from 95.2% to 85.4%. Imports dropped to almost nothing for nine days after the blackout of 28 April, and gas output stayed well above its 2024 level from May to November.
 - **Greener days are cheaper days.** Inside each year, the daily renewable share and the daily Portuguese price are negatively correlated, from about -0.3 to -0.75. Portugal and Spain also see different prices more often: 9.3% of days in 2022, 21.6% in 2025.
 - **Electric vehicle charging is concentrated.** Over the 12 months available, Lisbon district accounts for 37.1% of mainland charging energy and Porto district for 15.9%. The ten largest municipalities add up to 41.7%.
-- **"Tomorrow equals today" is hard to beat.** Across 18 test windows of 60 days, that simple forecast has an average error of 2.62 percentage points. A linear regression with the previous day, the previous week and the time of year scores 2.85 and wins in 8 of the 18 windows. Looking only at the latest window would have suggested the regression is better, which is why the evaluation uses many windows.
+- **"Tomorrow equals today" is hard to beat.** Across 18 test windows of 60 days, that simple forecast has an average error of 2.63 percentage points. A linear regression with the previous day, the previous week and the time of year scores 2.86 and wins in 8 of the 18 windows. Looking only at the latest window would have suggested the regression is better, which is why the evaluation uses many windows.
 
 <table>
   <tr>
