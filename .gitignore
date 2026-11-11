@@ -1,0 +1,19 @@
+# The REN downloads are large (about 23 MB) and can be rebuilt with notebooks/01_extraction.ipynb.
+# The E-REDES and INE downloads stay in the repository: E-REDES only keeps about twelve months
+# online, so the saved file is the only copy of the older months.
+data/raw/*
+!data/raw/eredes_mobility_grouped_raw.json
+!data/raw/ine_population_raw.json
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
